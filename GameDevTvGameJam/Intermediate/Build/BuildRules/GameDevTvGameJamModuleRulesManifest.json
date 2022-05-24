@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Source\\GameDevTvGameJam\\GameDevTvGameJam.Build.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Source\\GameDevTvGameJam.Target.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Source\\GameDevTvGameJamEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

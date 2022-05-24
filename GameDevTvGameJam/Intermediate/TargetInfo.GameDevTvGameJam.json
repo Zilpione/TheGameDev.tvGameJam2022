@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameDevTvGameJam",
+			"Path": "C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Source\\GameDevTvGameJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameDevTvGameJamEditor",
+			"Path": "C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Source\\GameDevTvGameJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

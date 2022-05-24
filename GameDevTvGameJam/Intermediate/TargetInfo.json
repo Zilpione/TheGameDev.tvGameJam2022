@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameDevTvGameJam",
+			"Path": "C:\\Users\\simon\\OneDrive\\Documenti\\Unreal Projects\\GameDevTvGameJam\\Source\\GameDevTvGameJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameDevTvGameJamEditor",
+			"Path": "C:\\Users\\simon\\OneDrive\\Documenti\\Unreal Projects\\GameDevTvGameJam\\Source\\GameDevTvGameJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
