@@ -1,6 +1,13 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Source\\GameDevTvGameJam\\GameDevTvGameJam.Build.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
+		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Plugins\\Developer\\RiderSourceCodeAccess-master\\Source\\RiderSourceCodeAccess\\RiderSourceCodeAccess.Build.cs",
 		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Source\\GameDevTvGameJam.Target.cs",
 		"C:\\Users\\simon\\source\\repos\\TheGameDev.tvGameJam2022\\GameDevTvGameJam\\Source\\GameDevTvGameJamEditor.Target.cs"
 	],

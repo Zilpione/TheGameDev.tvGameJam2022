@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameDevTvGameJam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\GameDevTvGameJamEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\UnrealEditor\Development\GameDevTvGameJam\GameDevTvGameJam.cpp.obj"
+"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\UnrealEditor\Development\GameDevTvGameJam\GameDevTvGameJamCharacter.cpp.obj"
+"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\UnrealEditor\Development\GameDevTvGameJam\GameDevTvGameJamGameMode.cpp.obj"
+"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\UnrealEditor\Development\GameDevTvGameJam\GameDevTvGameJam.init.gen.cpp.obj"
+"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\UnrealEditor\Development\GameDevTvGameJam\GameDevTvGameJamCharacter.gen.cpp.obj"
+"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\UnrealEditor\Development\GameDevTvGameJam\GameDevTvGameJamGameMode.gen.cpp.obj"
+"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\UnrealEditor\Development\GameDevTvGameJam\Default.rc2.res"
+/OUT:"C:\Users\simon\source\repos\TheGameDev.tvGameJam2022\GameDevTvGameJam\Intermediate\Build\Win64\UnrealEditor\Development\GameDevTvGameJam\UnrealEditor-GameDevTvGameJam.lib"

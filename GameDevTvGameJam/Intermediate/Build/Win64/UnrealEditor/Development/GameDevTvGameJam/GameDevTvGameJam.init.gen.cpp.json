@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\simon\\source\\repos\\thegamedev.tvgamejam2022\\gamedevtvgamejam\\intermediate\\build\\win64\\unrealeditor\\inc\\gamedevtvgamejam\\gamedevtvgamejam.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\simon\\source\\repos\\thegamedev.tvgamejam2022\\gamedevtvgamejam\\intermediate\\build\\win64\\gamedevtvgamejameditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\simon\\source\\repos\\thegamedev.tvgamejam2022\\gamedevtvgamejam\\intermediate\\build\\win64\\unrealeditor\\development\\gamedevtvgamejam\\definitions.gamedevtvgamejam.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

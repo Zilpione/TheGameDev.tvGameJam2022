@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\simon\\onedrive\\documenti\\unreal projects\\toontanksprojectsetup_4.25\\toontanks\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\thirdparty.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\simon\\onedrive\\documenti\\unreal projects\\toontanksprojectsetup_4.25\\toontanks\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
