@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\simon\\source\\repos\\thegamedev.tvgamejam2022\\gamedevtvgamejam\\intermediate\\build\\win64\\unrealgame\\inc\\gamedevtvgamejam\\gamedevtvgamejamgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\simon\\source\\repos\\thegamedev.tvgamejam2022\\gamedevtvgamejam\\intermediate\\build\\win64\\gamedevtvgamejam\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\simon\\source\\repos\\thegamedev.tvgamejam2022\\gamedevtvgamejam\\intermediate\\build\\win64\\unrealgame\\development\\gamedevtvgamejam\\definitions.gamedevtvgamejam.h",
+            "c:\\users\\simon\\source\\repos\\thegamedev.tvgamejam2022\\gamedevtvgamejam\\source\\gamedevtvgamejam\\gamedevtvgamejamgamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\simon\\source\\repos\\thegamedev.tvgamejam2022\\gamedevtvgamejam\\intermediate\\build\\win64\\unrealgame\\inc\\gamedevtvgamejam\\gamedevtvgamejamgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
