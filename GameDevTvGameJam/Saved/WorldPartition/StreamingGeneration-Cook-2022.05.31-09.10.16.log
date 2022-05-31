@@ -1,0 +1,9 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/MainMenu/Main_Menu
+   |  ActorDescs:
+   |      - Guid:C64EB35340AE45E85AF03F9E9D01517A Class:AmbientSound Name:AmbientSound_UAID_D8BBC1B31E68F01401_1919029519 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=-141.047 Y=1987.324 Z=418.047), Max=(X=-141.047 Y=1987.324 Z=418.047) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:E535AB314997F3A28C7A0393083C1F04 Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000

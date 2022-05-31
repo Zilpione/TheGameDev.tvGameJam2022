@@ -1,0 +1,5677 @@
+{
+	"Files": [
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset",
+			"ChunkId": "90442f10ca8d9eb700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlueNoise.uasset",
+			"ChunkId": "1439d3a2f78315bf00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset",
+			"ChunkId": "7045cf1b55a1317500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Master.uasset",
+			"ChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset",
+			"ChunkId": "f324387808549ca400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset",
+			"ChunkId": "86f514aa5cdc08e700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/GizmoMaterial.uasset",
+			"ChunkId": "4f766dcdfcc10abc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+			"ChunkId": "d9ef76f15dcbda9d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+			"ChunkId": "f0a7f83421ac425b00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset",
+			"ChunkId": "5f510b7cd6e0bdc800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset",
+			"ChunkId": "8fcb1cae0c92026900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset",
+			"ChunkId": "11e16642d5df4eca00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset",
+			"ChunkId": "a8a408dbac6bb61700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset",
+			"ChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset",
+			"ChunkId": "931f8593c76b1a3700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset",
+			"ChunkId": "3bd77c49df92ee7b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset",
+			"ChunkId": "bb0c9910913c4acc00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset",
+			"ChunkId": "3f4f90b51972562400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset",
+			"ChunkId": "b2e55f36209c19b000000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset",
+			"ChunkId": "8d4486caf50605b200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset",
+			"ChunkId": "84ee12d7bc5f5a8000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset",
+			"ChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Path": "Engine/Content/Tutorial/ContentIntroCurve.uasset",
+			"ChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
+			"ChunkId": "a325708448a8980800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset",
+			"ChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset",
+			"ChunkId": "7bae9d93c88ae44900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorLandscapeResources/DataLayer.uasset",
+			"ChunkId": "fe8e2f79bc05d6e200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoRegular.uasset",
+			"ChunkId": "5ba734afa75fb33c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoLight.uasset",
+			"ChunkId": "0668993fb5b5811c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoItalic.uasset",
+			"ChunkId": "6ef7eb5c150af73a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset",
+			"ChunkId": "0fcbf7e6705a3afe00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoBold.uasset",
+			"ChunkId": "368e94bf2073b74d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset",
+			"ChunkId": "a9e44eb998f07d0800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset",
+			"ChunkId": "a06a91154845992200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/Camera/CineMat.uasset",
+			"ChunkId": "a60f7c53ca2e732e00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+			"ChunkId": "b0afffa81f17b5cc00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/Main.uasset",
+			"ChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
+			"ChunkId": "5c918efb403d4bb200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
+			"ChunkId": "5c918efb403d4bb200000002"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
+			"ChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset",
+			"ChunkId": "b60fa590a5fe4d6f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset",
+			"ChunkId": "c18dd883a0c55c8b00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Terrain.uasset",
+			"ChunkId": "5cea311860b94ecb00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Terrain.ubulk",
+			"ChunkId": "5cea311860b94ecb00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset",
+			"ChunkId": "8b12fc0ce026f5be00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset",
+			"ChunkId": "ad84bf334b97e1af00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultBloomKernel.uasset",
+			"ChunkId": "cbab6b01dd8b7ffe00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/BSPVertex.uasset",
+			"ChunkId": "9784ada5ce57b7cb00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset",
+			"ChunkId": "9c7151fedab8d7e200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset",
+			"ChunkId": "fd5c4b2d837478ae00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset",
+			"ChunkId": "624f937426db20c500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk",
+			"ChunkId": "624f937426db20c500000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset",
+			"ChunkId": "4077f21c1acd58d500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/MiniFont.uasset",
+			"ChunkId": "58ac407f95ae164b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
+			"ChunkId": "b60efe12572543e800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultBokeh.uasset",
+			"ChunkId": "65401b411493477b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
+			"ChunkId": "1c3a80931d7381bf00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset",
+			"ChunkId": "4eefe050ec0582d800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset",
+			"ChunkId": "28ed83b8029dd22900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset",
+			"ChunkId": "c599b991259f3dc100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset",
+			"ChunkId": "0219c3161c6d6eb200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset",
+			"ChunkId": "d77ca907bf9be46e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset",
+			"ChunkId": "adba4404ca6448ad00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset",
+			"ChunkId": "768633666781f70600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset",
+			"ChunkId": "2563b8e7aff6d26e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset",
+			"ChunkId": "7ba7b2b1aeafb4cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset",
+			"ChunkId": "641c8321450e97f400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset",
+			"ChunkId": "cdb6f2e8065df7c100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk",
+			"ChunkId": "cdb6f2e8065df7c100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset",
+			"ChunkId": "8500a33b2fedbab800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/VolumeToRender.uasset",
+			"ChunkId": "7f8259be57e87dce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset",
+			"ChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
+			"ChunkId": "27d3dbbd9cb5875a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
+			"ChunkId": "27d3dbbd9cb5875a00000002"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
+			"ChunkId": "2cc5808063f890db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
+			"ChunkId": "2cc5808063f890db00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset",
+			"ChunkId": "55c5d73fec0135d200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairDebugColor.uasset",
+			"ChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairColorMap.uasset",
+			"ChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
+			"ChunkId": "0bf1d6a9c47f8ccc00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk",
+			"ChunkId": "0bf1d6a9c47f8ccc00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
+			"ChunkId": "ba6543c81e92e56d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
+			"ChunkId": "ba6543c81e92e56d00000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
+			"ChunkId": "f267c7830989284200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset",
+			"ChunkId": "79688f0e793acea100000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset",
+			"ChunkId": "0ccdb42a00235ca400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset",
+			"ChunkId": "3f9ae4ae5e9a10b000000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset",
+			"ChunkId": "7276d40fd50dba5900000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset",
+			"ChunkId": "a29fb34f83f7d31a00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset",
+			"ChunkId": "94d5e4cbc0f4380c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
+			"ChunkId": "0125e0852ce3d3e700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
+			"ChunkId": "6a3b7a697242e13400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset",
+			"ChunkId": "6752d9e62e6e395700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
+			"ChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMeshes/Sphere.uasset",
+			"ChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMeshes/Sphere.ubulk",
+			"ChunkId": "f421d8f857b9ed0300000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Skeleton/Mixamo_Skeleton.uasset",
+			"ChunkId": "1e18a572bcbef3ee00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Skeleton/Zombie_Idle_PhysicsAsset.uasset",
+			"ChunkId": "cf8acd3b42970b1b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Skeleton/Zombie_IdleWith_Zombie_SKIN_PhysicsAsset.uasset",
+			"ChunkId": "82ffc524f6e5ab7b00000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
+			"ChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
+			"ChunkId": "fd3456639b15286700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/M_ky_empty.uasset",
+			"ChunkId": "347b7af7cceea01c00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset",
+			"ChunkId": "adfc0c5cb146690600000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset",
+			"ChunkId": "e43855b9d402d6d500000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset",
+			"ChunkId": "d812587583a9535d00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset",
+			"ChunkId": "8ecbf6c61162774100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
+			"ChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
+			"ChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
+			"ChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
+			"ChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
+			"ChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
+			"ChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
+			"ChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Game1.uasset",
+			"ChunkId": "5d6c53204b3fd01200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Game1.ubulk",
+			"ChunkId": "5d6c53204b3fd01200000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/MainMenu/TestImage.uasset",
+			"ChunkId": "708f06661f1f9e6c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Diffuse.uasset",
+			"ChunkId": "1d9156b8f6bdf2d600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Diffuse.ubulk",
+			"ChunkId": "1d9156b8f6bdf2d600000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Glossiness.uasset",
+			"ChunkId": "516a46f02e93f36c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Glossiness.ubulk",
+			"ChunkId": "516a46f02e93f36c00000002"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset",
+			"ChunkId": "2917d76711e58ca300000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset",
+			"ChunkId": "12bace0bc8b42ac000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
+			"ChunkId": "b743bdd5e5df72a400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk",
+			"ChunkId": "b743bdd5e5df72a400000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset",
+			"ChunkId": "200cd3dc0f3f673a00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk",
+			"ChunkId": "200cd3dc0f3f673a00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset",
+			"ChunkId": "a996adcfa357ed2d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk",
+			"ChunkId": "a996adcfa357ed2d00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset",
+			"ChunkId": "730711032edb546300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset",
+			"ChunkId": "92d47df83dccf7d800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk",
+			"ChunkId": "92d47df83dccf7d800000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset",
+			"ChunkId": "e21a9990b0ff22d600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset",
+			"ChunkId": "b3b465c34fc83f8e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset",
+			"ChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerSphere.uasset",
+			"ChunkId": "67d4e8f2a83a1c4800000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerCapsule.uasset",
+			"ChunkId": "a8fda97722bfb0e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerBox.uasset",
+			"ChunkId": "8953c1244c740aad00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Trigger.uasset",
+			"ChunkId": "9acae5549f0219b000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Trigger.ubulk",
+			"ChunkId": "9acae5549f0219b000000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
+			"ChunkId": "7539f12095a3f0d100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
+			"ChunkId": "7539f12095a3f0d100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
+			"ChunkId": "7a7173cfb4095b9f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
+			"ChunkId": "7a7173cfb4095b9f00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+			"ChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset",
+			"ChunkId": "6c54e7f6d4ea912200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture.uasset",
+			"ChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
+			"ChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
+			"ChunkId": "6baf53cf79c0948b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.ubulk",
+			"ChunkId": "6baf53cf79c0948b00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
+			"ChunkId": "2127f99d332bc85400000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
+			"ChunkId": "42a5bdf71bdb9f1200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset",
+			"ChunkId": "c88f4734102acff000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset",
+			"ChunkId": "85cfc579099524d700000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset",
+			"ChunkId": "3971ec1ba77895c500000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset",
+			"ChunkId": "100a686260435bc000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset",
+			"ChunkId": "b82834f1c5d5064600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset",
+			"ChunkId": "b3b0c8e737f4c6b200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset",
+			"ChunkId": "c6249d4d30bbac8400000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset",
+			"ChunkId": "9148ba92525e0ece00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset",
+			"ChunkId": "a69bcbb54afb7d4300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/Black.uasset",
+			"ChunkId": "cda0cf6115260c9400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
+			"ChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_BoxReflectionCapture.uasset",
+			"ChunkId": "ff5a26a059754af200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
+			"ChunkId": "bd472f8cbf5f723d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Actor.ubulk",
+			"ChunkId": "bd472f8cbf5f723d00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Grunt.uasset",
+			"ChunkId": "5005cf0a7be1613e00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Scream.uasset",
+			"ChunkId": "88e4d8567d04517900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Scream.ubulk",
+			"ChunkId": "88e4d8567d04517900000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Menu.uasset",
+			"ChunkId": "e1062fbe1f590dcd00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Menu.ubulk",
+			"ChunkId": "e1062fbe1f590dcd00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Thunder.uasset",
+			"ChunkId": "e87f590b9a75453600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Audio/Thunder.ubulk",
+			"ChunkId": "e87f590b9a75453600000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Specular.uasset",
+			"ChunkId": "46a56674e83d598700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Specular.ubulk",
+			"ChunkId": "46a56674e83d598700000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1001_Diffuse.uasset",
+			"ChunkId": "941680964efbf48500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1001_Diffuse.ubulk",
+			"ChunkId": "941680964efbf48500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1001_Glossiness.uasset",
+			"ChunkId": "15235bb587f4605500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1001_Glossiness.ubulk",
+			"ChunkId": "15235bb587f4605500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1001_Specular.uasset",
+			"ChunkId": "c15d678b55012be900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1001_Specular.ubulk",
+			"ChunkId": "c15d678b55012be900000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
+			"ChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
+			"ChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
+			"ChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset",
+			"ChunkId": "ea704fa9c99103cc00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset",
+			"ChunkId": "6e6a371ba7ffd6e900000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.ubulk",
+			"ChunkId": "6e6a371ba7ffd6e900000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
+			"ChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
+			"ChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
+			"ChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset",
+			"ChunkId": "3889933e64b3022c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
+			"ChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
+			"ChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
+			"ChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+			"ChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+			"ChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset",
+			"ChunkId": "d53d636e76ceb15300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_stone02_2x2.ubulk",
+			"ChunkId": "d53d636e76ceb15300000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Normal.uasset",
+			"ChunkId": "f9f91bed3f62499a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Normal.ubulk",
+			"ChunkId": "f9f91bed3f62499a00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Diffuse_ncl1_1.uasset",
+			"ChunkId": "fa8a7fd3327b808500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Diffuse_ncl1_1.ubulk",
+			"ChunkId": "fa8a7fd3327b808500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Normal_ncl1_1.uasset",
+			"ChunkId": "f14ae076a3e7d4be00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_1001_Normal_ncl1_1.ubulk",
+			"ChunkId": "f14ae076a3e7d4be00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1001_Normal.uasset",
+			"ChunkId": "5070f4c75e42ec4500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1001_Normal.ubulk",
+			"ChunkId": "5070f4c75e42ec4500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1002_Diffuse.uasset",
+			"ChunkId": "57298a179f8d1a6300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1002_Diffuse.ubulk",
+			"ChunkId": "57298a179f8d1a6300000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1002_Glossiness.uasset",
+			"ChunkId": "fa0ba4287dd51e8a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1002_Glossiness.ubulk",
+			"ChunkId": "fa0ba4287dd51e8a00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1002_Normal.uasset",
+			"ChunkId": "43e1e25120f1b01600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1002_Normal.ubulk",
+			"ChunkId": "43e1e25120f1b01600000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1002_Specular.uasset",
+			"ChunkId": "3aab66457af4766100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_1002_Specular.ubulk",
+			"ChunkId": "3aab66457af4766100000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_flare_a.uasset",
+			"ChunkId": "e1d58ba21af4e8c500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_flare_a.ubulk",
+			"ChunkId": "e1d58ba21af4e8c500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_noise17.uasset",
+			"ChunkId": "c8f17e3004ebc2de00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_noise17.ubulk",
+			"ChunkId": "c8f17e3004ebc2de00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_noise4.uasset",
+			"ChunkId": "1438d6f606c9c35d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_noise4.ubulk",
+			"ChunkId": "1438d6f606c9c35d00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_noise6.uasset",
+			"ChunkId": "5546798c23e12fb500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_noise6.ubulk",
+			"ChunkId": "5546798c23e12fb500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_maskRGB3.uasset",
+			"ChunkId": "24ced509ae6a410000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_maskRGB3.ubulk",
+			"ChunkId": "24ced509ae6a410000000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_noise5.uasset",
+			"ChunkId": "5047a50f3aeaed0500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_noise5.ubulk",
+			"ChunkId": "5047a50f3aeaed0500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_dist_noise.uasset",
+			"ChunkId": "987ed7e61ddf18a900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_smoke_kai.uasset",
+			"ChunkId": "60e341a72e55c56c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_smoke_kai.ubulk",
+			"ChunkId": "60e341a72e55c56c00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset",
+			"ChunkId": "28339a75b6f2533200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Textures/T_ky_vortex04_4x4.ubulk",
+			"ChunkId": "28339a75b6f2533200000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+			"ChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
+			"ChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "14c0e68102482a4700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset",
+			"ChunkId": "a4739b1d475b4a3e00000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
+			"ChunkId": "37cdeb5ce1d3ccd800000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset",
+			"ChunkId": "fabb39727be145c100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/MainMenu/MainMenuWidget.uasset",
+			"ChunkId": "3819534f5ef4c91b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Zombie_Dying.uasset",
+			"ChunkId": "21a94c1748beacd100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Zombie_Attack.uasset",
+			"ChunkId": "97b4c696ee5d5e2c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Zombie_Stand_Up.uasset",
+			"ChunkId": "f7bd9594f8f6db5f00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Fast_Run.uasset",
+			"ChunkId": "c481bfa319bf3e3a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Skeleton/Idle.uasset",
+			"ChunkId": "5bdc276962a43fb600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Standard_Walk.uasset",
+			"ChunkId": "202555f3820f6a7100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Zombie_Running.uasset",
+			"ChunkId": "b272ab62ff10fa3400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_body.uasset",
+			"ChunkId": "cfb4433487e0923900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch01_hair.uasset",
+			"ChunkId": "5b314e4fe5a0435100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_body.uasset",
+			"ChunkId": "eb2758853de6f13400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Materials/Ch10_body1.uasset",
+			"ChunkId": "3bb1dce6eddbef6200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/M_ky_flare_flash.uasset",
+			"ChunkId": "a2c97138944f811a00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset",
+			"ChunkId": "bdbcf28d7739806c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset",
+			"ChunkId": "15176bd3804b017c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset",
+			"ChunkId": "4638b1a57452003500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset",
+			"ChunkId": "a5ce61de9cb2501800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset",
+			"ChunkId": "8ab2ea18024af3bf00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset",
+			"ChunkId": "8e09f0ed48a33b1a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset",
+			"ChunkId": "b60f6b75e49c3a9400000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
+			"ChunkId": "1eb36adebf3e8d6900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
+			"ChunkId": "b2e758c7adce0aa000000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
+			"ChunkId": "603c62bd8092b35100000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset",
+			"ChunkId": "11adfda265bc32c200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.ubulk",
+			"ChunkId": "11adfda265bc32c200000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset",
+			"ChunkId": "d4904df7434a1c3e00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.ubulk",
+			"ChunkId": "d4904df7434a1c3e00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset",
+			"ChunkId": "92fa3fc272bbaee700000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.ubulk",
+			"ChunkId": "92fa3fc272bbaee700000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset",
+			"ChunkId": "913432800511c53c00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.ubulk",
+			"ChunkId": "913432800511c53c00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset",
+			"ChunkId": "24be0d3101b3b5c400000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.ubulk",
+			"ChunkId": "24be0d3101b3b5c400000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset",
+			"ChunkId": "4783ca75c2bc153700000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.ubulk",
+			"ChunkId": "4783ca75c2bc153700000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset",
+			"ChunkId": "8c9eb2537b56333800000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.ubulk",
+			"ChunkId": "8c9eb2537b56333800000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset",
+			"ChunkId": "68b44f7e8ffd781d00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk",
+			"ChunkId": "68b44f7e8ffd781d00000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset",
+			"ChunkId": "85fc957de8cdf73500000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk",
+			"ChunkId": "85fc957de8cdf73500000002"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset",
+			"ChunkId": "0ec7598e2050155600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset",
+			"ChunkId": "7bb897d6d85abe5e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset",
+			"ChunkId": "4b7bf926a5212df600000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cone.uasset",
+			"ChunkId": "f23f619700918ac500000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cone.ubulk",
+			"ChunkId": "f23f619700918ac500000002"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cylinder.uasset",
+			"ChunkId": "7607d982d08b414700000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cylinder.ubulk",
+			"ChunkId": "7607d982d08b414700000002"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Sphere.uasset",
+			"ChunkId": "4a782f60fcb4c26e00000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Sphere.ubulk",
+			"ChunkId": "4a782f60fcb4c26e00000002"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry.umap",
+			"ChunkId": "d31cf458faf4915200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset",
+			"ChunkId": "1595b610bf425b8d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk",
+			"ChunkId": "1595b610bf425b8d00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset",
+			"ChunkId": "0d2d768a1192b97000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk",
+			"ChunkId": "0d2d768a1192b97000000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset",
+			"ChunkId": "c66b43ec76bfc59100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk",
+			"ChunkId": "c66b43ec76bfc59100000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset",
+			"ChunkId": "635920dd8e97e89c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk",
+			"ChunkId": "635920dd8e97e89c00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset",
+			"ChunkId": "81e5ad0aacfbd7d600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk",
+			"ChunkId": "81e5ad0aacfbd7d600000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset",
+			"ChunkId": "ee735f95c6fe420100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk",
+			"ChunkId": "ee735f95c6fe420100000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset",
+			"ChunkId": "299f33e3d422c87c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk",
+			"ChunkId": "299f33e3d422c87c00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset",
+			"ChunkId": "6bcf318dbf32160d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk",
+			"ChunkId": "6bcf318dbf32160d00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset",
+			"ChunkId": "8ff50e13d07b6e9600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk",
+			"ChunkId": "8ff50e13d07b6e9600000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset",
+			"ChunkId": "282dd182b8a2782f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk",
+			"ChunkId": "282dd182b8a2782f00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset",
+			"ChunkId": "2c09f940b5d3cf5600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk",
+			"ChunkId": "2c09f940b5d3cf5600000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset",
+			"ChunkId": "d77ff1320cafb8eb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk",
+			"ChunkId": "d77ff1320cafb8eb00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset",
+			"ChunkId": "3c8fe56dcc4c94e400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk",
+			"ChunkId": "3c8fe56dcc4c94e400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset",
+			"ChunkId": "021da6225c7f517f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk",
+			"ChunkId": "021da6225c7f517f00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset",
+			"ChunkId": "2f97b476b27e825100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk",
+			"ChunkId": "2f97b476b27e825100000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset",
+			"ChunkId": "81539c5da11600ae00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk",
+			"ChunkId": "81539c5da11600ae00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset",
+			"ChunkId": "8a3d5c4c771cc2b800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk",
+			"ChunkId": "8a3d5c4c771cc2b800000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset",
+			"ChunkId": "47760300c23f376100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk",
+			"ChunkId": "47760300c23f376100000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset",
+			"ChunkId": "e2e0e65221e757ff00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk",
+			"ChunkId": "e2e0e65221e757ff00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset",
+			"ChunkId": "7d129f2ecdbade0a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk",
+			"ChunkId": "7d129f2ecdbade0a00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset",
+			"ChunkId": "a1157adbe06ab91600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk",
+			"ChunkId": "a1157adbe06ab91600000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset",
+			"ChunkId": "0f013d461d34e71f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk",
+			"ChunkId": "0f013d461d34e71f00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset",
+			"ChunkId": "1380a38fb2d9d09b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk",
+			"ChunkId": "1380a38fb2d9d09b00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset",
+			"ChunkId": "ccfbf6fb8c94d52600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk",
+			"ChunkId": "ccfbf6fb8c94d52600000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset",
+			"ChunkId": "2feae67d1f28277b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk",
+			"ChunkId": "2feae67d1f28277b00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset",
+			"ChunkId": "e28775e15c9fefaa00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk",
+			"ChunkId": "e28775e15c9fefaa00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset",
+			"ChunkId": "c42798d4b7d7893a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk",
+			"ChunkId": "c42798d4b7d7893a00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset",
+			"ChunkId": "db28b8396928adf000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk",
+			"ChunkId": "db28b8396928adf000000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset",
+			"ChunkId": "9936bd915052cb2200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk",
+			"ChunkId": "9936bd915052cb2200000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset",
+			"ChunkId": "1b6c8e2dd045aecf00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk",
+			"ChunkId": "1b6c8e2dd045aecf00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset",
+			"ChunkId": "d23a4e7d2f47187c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk",
+			"ChunkId": "d23a4e7d2f47187c00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset",
+			"ChunkId": "1d747f2667a6cc3e00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk",
+			"ChunkId": "1d747f2667a6cc3e00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset",
+			"ChunkId": "d1e559d0e2302cd200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk",
+			"ChunkId": "d1e559d0e2302cd200000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset",
+			"ChunkId": "41772863b6990e2300000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk",
+			"ChunkId": "41772863b6990e2300000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset",
+			"ChunkId": "88eaefb43659df9600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk",
+			"ChunkId": "88eaefb43659df9600000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset",
+			"ChunkId": "5f0bb60d5aa9cbe000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk",
+			"ChunkId": "5f0bb60d5aa9cbe000000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset",
+			"ChunkId": "a91d103488503cd200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk",
+			"ChunkId": "a91d103488503cd200000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset",
+			"ChunkId": "b971d0721fc7bec800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk",
+			"ChunkId": "b971d0721fc7bec800000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset",
+			"ChunkId": "032dd1d44e4fc35000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk",
+			"ChunkId": "032dd1d44e4fc35000000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset",
+			"ChunkId": "26708189dce06d9c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk",
+			"ChunkId": "26708189dce06d9c00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset",
+			"ChunkId": "b0e6f22a1229f33400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk",
+			"ChunkId": "b0e6f22a1229f33400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset",
+			"ChunkId": "b6ecf8eaf9e325c400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk",
+			"ChunkId": "b6ecf8eaf9e325c400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset",
+			"ChunkId": "1d2105a53b99f8b400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk",
+			"ChunkId": "1d2105a53b99f8b400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset",
+			"ChunkId": "0bd00fa41afbdaed00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk",
+			"ChunkId": "0bd00fa41afbdaed00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset",
+			"ChunkId": "4bf1e0df3070bca100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk",
+			"ChunkId": "4bf1e0df3070bca100000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset",
+			"ChunkId": "6ff734fd30628e8c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk",
+			"ChunkId": "6ff734fd30628e8c00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset",
+			"ChunkId": "c37eb6c5460e3abb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk",
+			"ChunkId": "c37eb6c5460e3abb00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset",
+			"ChunkId": "34f8d388913445db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk",
+			"ChunkId": "34f8d388913445db00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset",
+			"ChunkId": "d623d5bc8818ccbe00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk",
+			"ChunkId": "d623d5bc8818ccbe00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset",
+			"ChunkId": "42cab4d3ee68987100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk",
+			"ChunkId": "42cab4d3ee68987100000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset",
+			"ChunkId": "dbdfc4bccd3d616d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk",
+			"ChunkId": "dbdfc4bccd3d616d00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset",
+			"ChunkId": "29ff7e5dd78cdef100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk",
+			"ChunkId": "29ff7e5dd78cdef100000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset",
+			"ChunkId": "a9e8edb09171185f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk",
+			"ChunkId": "a9e8edb09171185f00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset",
+			"ChunkId": "1b32f3f341cb246000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk",
+			"ChunkId": "1b32f3f341cb246000000002"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Plane.uasset",
+			"ChunkId": "a44601bc68ca3f2400000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Plane.ubulk",
+			"ChunkId": "a44601bc68ca3f2400000002"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cube.uasset",
+			"ChunkId": "71fe0432abe4de2400000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cube.ubulk",
+			"ChunkId": "71fe0432abe4de2400000002"
+		},
+		{
+			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset",
+			"ChunkId": "7b9c08e592b6f57800000001"
+		},
+		{
+			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk",
+			"ChunkId": "7b9c08e592b6f57800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Main.umap",
+			"ChunkId": "6957c7cdba12897f00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset",
+			"ChunkId": "feae740b35d6dd3b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Meshes/SM_ky_circleDist06.ubulk",
+			"ChunkId": "feae740b35d6dd3b00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset",
+			"ChunkId": "23d7172b49a2fc4100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Meshes/SM_ky_quad_centerRot.ubulk",
+			"ChunkId": "23d7172b49a2fc4100000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Meshes/SM_ky_tornado07.uasset",
+			"ChunkId": "d9635334b8b3d5de00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Meshes/SM_ky_tornado07.ubulk",
+			"ChunkId": "d9635334b8b3d5de00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset",
+			"ChunkId": "85eb7ec9f6c8613a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
+			"ChunkId": "dd353fe85598727e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
+			"ChunkId": "34868b7f9c10838900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/MainMenu/Main_Menu.umap",
+			"ChunkId": "be477faf6bfc71fa00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/AttackMove.uasset",
+			"ChunkId": "df97bc92f712775300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Pedone.uasset",
+			"ChunkId": "51bc397e5bd12d9a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/MaximoBS.uasset",
+			"ChunkId": "74194c54d1a5cda700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Skeleton/Maximo_Mesh.uasset",
+			"ChunkId": "fa11d165ab4a1f2900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/Skeleton/Zombie_IdleWith_Zombie_SKIN.uasset",
+			"ChunkId": "8128adad5f55e6f800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/M_ky_stone02.uasset",
+			"ChunkId": "ad2258820ca1c93400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/M_ky_stormDeco01.uasset",
+			"ChunkId": "d98304ba0cdbfc0000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/M_ky_storm01.uasset",
+			"ChunkId": "dd46f84f3d5db42100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/M_ky_base_turbulence.uasset",
+			"ChunkId": "d2e0a3f54fb71ab400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset",
+			"ChunkId": "1ae809e7c1079db400000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Templates/HLODs/HLODLayer_Instanced.uasset",
+			"ChunkId": "c7b654a9cce24cef00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
+			"ChunkId": "3a0245e4904b10b500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
+			"ChunkId": "0e6a0028be3a2a6c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+			"ChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/ABP_Zombie.uasset",
+			"ChunkId": "e37ef69c7c40142100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset",
+			"ChunkId": "e5ee83f7e4e81fad00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset",
+			"ChunkId": "2b5eeae520e979b800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/BP_Player.uasset",
+			"ChunkId": "59779d26af12a39d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Gamemode.uasset",
+			"ChunkId": "64568f8d8a99c3ac00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/BP_Pedestrian.uasset",
+			"ChunkId": "31190128e3ab2e2100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/ABP_Pedestran.uasset",
+			"ChunkId": "7876d3ce8fc6f4b200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset",
+			"ChunkId": "cadc4d0ec817b83400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset",
+			"ChunkId": "cda0bce26734770500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset",
+			"ChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Blueprints/BP_OpenDoor.uasset",
+			"ChunkId": "17c53e5d3e48cd1e00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Blueprints/BP_CeilingLamp.uasset",
+			"ChunkId": "d4d740ad8e220fbe00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01.uasset",
+			"ChunkId": "6cf99a0e49ac8e8c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01.ubulk",
+			"ChunkId": "6cf99a0e49ac8e8c00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_double.uasset",
+			"ChunkId": "11d712f38fa4398e00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_double.ubulk",
+			"ChunkId": "11d712f38fa4398e00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_corner.uasset",
+			"ChunkId": "c4282d8ce8503fe100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_corner.ubulk",
+			"ChunkId": "c4282d8ce8503fe100000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Nature/SM_grassVerticalSingle.uasset",
+			"ChunkId": "c01a1d1f1d6f5b2c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Nature/SM_grassVerticalSingle.ubulk",
+			"ChunkId": "c01a1d1f1d6f5b2c00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_03.uasset",
+			"ChunkId": "8973f6be46f3210e00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_03.ubulk",
+			"ChunkId": "8973f6be46f3210e00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_trim.uasset",
+			"ChunkId": "d0f73356634f0c6700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_trim.ubulk",
+			"ChunkId": "d0f73356634f0c6700000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_01.uasset",
+			"ChunkId": "edbc6bcd2ed31b4100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_01.ubulk",
+			"ChunkId": "edbc6bcd2ed31b4100000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_parcel_01.uasset",
+			"ChunkId": "455a2c4390cc0bd500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_parcel_01.ubulk",
+			"ChunkId": "455a2c4390cc0bd500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_04_quarter.uasset",
+			"ChunkId": "0d7ef7e797d7d72c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_04_quarter.ubulk",
+			"ChunkId": "0d7ef7e797d7d72c00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_rainDrain.uasset",
+			"ChunkId": "f2a4e2445e2eda9200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_rainDrain.ubulk",
+			"ChunkId": "f2a4e2445e2eda9200000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_parcel_02.uasset",
+			"ChunkId": "06f7b514c8bab76700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_parcel_02.ubulk",
+			"ChunkId": "06f7b514c8bab76700000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_parkingSpot_02.uasset",
+			"ChunkId": "ca3475d29e91754b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/GroundTilset/SM_parkingSpot_02.ubulk",
+			"ChunkId": "ca3475d29e91754b00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_wall_01.uasset",
+			"ChunkId": "1251216f3fb3608f00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_wall_01.ubulk",
+			"ChunkId": "1251216f3fb3608f00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_pillar_01_corner.uasset",
+			"ChunkId": "fdb06e73fffc513900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_pillar_01_corner.ubulk",
+			"ChunkId": "fdb06e73fffc513900000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_wallDoor_02.uasset",
+			"ChunkId": "bfcff9a03f575f8200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_wallDoor_02.ubulk",
+			"ChunkId": "bfcff9a03f575f8200000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/BP_OpenDoor.uasset",
+			"ChunkId": "d289d8e1ee82f70a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/BP_OpenDoor.ubulk",
+			"ChunkId": "d289d8e1ee82f70a00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_window_01.uasset",
+			"ChunkId": "5bad2e1ca6672f6c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_window_01.ubulk",
+			"ChunkId": "5bad2e1ca6672f6c00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_floor_01.uasset",
+			"ChunkId": "e2e6a737cc567ee000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_floor_01.ubulk",
+			"ChunkId": "e2e6a737cc567ee000000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_PoliceCarSUV_01.uasset",
+			"ChunkId": "850d0681f728bd7e00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Nature/SM_tree_01.uasset",
+			"ChunkId": "5a56b4a82225eb1600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Nature/SM_tree_01.ubulk",
+			"ChunkId": "5a56b4a82225eb1600000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Nature/SM_tree_02.uasset",
+			"ChunkId": "a63df69e8532e08800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Nature/SM_tree_02.ubulk",
+			"ChunkId": "a63df69e8532e08800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_105.uasset",
+			"ChunkId": "635a3cc4c47259a500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_105.ubulk",
+			"ChunkId": "635a3cc4c47259a500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_block_2.uasset",
+			"ChunkId": "a05ec13567de376800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_block_2.ubulk",
+			"ChunkId": "a05ec13567de376800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_roof_01.uasset",
+			"ChunkId": "782874c5e3b2cc5400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_roof_01.ubulk",
+			"ChunkId": "782874c5e3b2cc5400000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat.uasset",
+			"ChunkId": "e54a912eab245ef100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat.ubulk",
+			"ChunkId": "e54a912eab245ef100000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_ceilingLamp_01.uasset",
+			"ChunkId": "3d3c0fc6b18582af00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_ceilingLamp_01.ubulk",
+			"ChunkId": "3d3c0fc6b18582af00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_bench.uasset",
+			"ChunkId": "976e240460d0c9ef00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_bench.ubulk",
+			"ChunkId": "976e240460d0c9ef00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_block_concrete.uasset",
+			"ChunkId": "657a9efa8820d04000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_block_concrete.ubulk",
+			"ChunkId": "657a9efa8820d04000000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_wooden_blocks.uasset",
+			"ChunkId": "ef05c03990652c3000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_wooden_blocks.ubulk",
+			"ChunkId": "ef05c03990652c3000000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Wardrobe_01.uasset",
+			"ChunkId": "0821fa590e71323a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Wardrobe_01.ubulk",
+			"ChunkId": "0821fa590e71323a00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_TruckTow.uasset",
+			"ChunkId": "2b1f7192496e85fa00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Fan_02.uasset",
+			"ChunkId": "64670b4047cd091600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Fan_02.ubulk",
+			"ChunkId": "64670b4047cd091600000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Binder_04.uasset",
+			"ChunkId": "f9f6f17b148edd6e00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Binder_04.ubulk",
+			"ChunkId": "f9f6f17b148edd6e00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Counter_02.uasset",
+			"ChunkId": "fd604c7452205e9800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Counter_02.ubulk",
+			"ChunkId": "fd604c7452205e9800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_barrel_1.uasset",
+			"ChunkId": "40d140cc0579d9ac00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_barrel_1.ubulk",
+			"ChunkId": "40d140cc0579d9ac00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_doorFrame_01.uasset",
+			"ChunkId": "dbdccfba23c8128b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_doorFrame_01.ubulk",
+			"ChunkId": "dbdccfba23c8128b00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_doorHouse_01.uasset",
+			"ChunkId": "d604ef2273568a5a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_doorHouse_01.ubulk",
+			"ChunkId": "d604ef2273568a5a00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_mailbox_1.uasset",
+			"ChunkId": "0be94577aade1b2200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_mailbox_1.ubulk",
+			"ChunkId": "0be94577aade1b2200000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Armachair_03.uasset",
+			"ChunkId": "a6335a419d2226bb00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Armachair_03.ubulk",
+			"ChunkId": "a6335a419d2226bb00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_SportClassic_02.uasset",
+			"ChunkId": "709b774a5e4bfa3700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Clock_01.uasset",
+			"ChunkId": "bad3670e9644e2c700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Clock_01.ubulk",
+			"ChunkId": "bad3670e9644e2c700000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_big.uasset",
+			"ChunkId": "5f2e43688f1552a000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_big.ubulk",
+			"ChunkId": "5f2e43688f1552a000000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_foundWood_01_corner.uasset",
+			"ChunkId": "8a9851d20d3c98e400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_foundWood_01_corner.ubulk",
+			"ChunkId": "8a9851d20d3c98e400000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Flag_01.uasset",
+			"ChunkId": "b8b8e3ac3094996c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Flag_01.ubulk",
+			"ChunkId": "b8b8e3ac3094996c00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_ladder_01.uasset",
+			"ChunkId": "e5f9bd8197b84a9d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_ladder_01.ubulk",
+			"ChunkId": "e5f9bd8197b84a9d00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_FrontDesk_Sign_01.uasset",
+			"ChunkId": "377baa709fa8f87b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_FrontDesk_Sign_01.ubulk",
+			"ChunkId": "377baa709fa8f87b00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_04.uasset",
+			"ChunkId": "d4379a07234b98ab00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_04.ubulk",
+			"ChunkId": "d4379a07234b98ab00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_barrel_2.uasset",
+			"ChunkId": "0232b1990584cde100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_barrel_2.ubulk",
+			"ChunkId": "0232b1990584cde100000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Plant_02.uasset",
+			"ChunkId": "a11036815b6e94d900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Plant_02.ubulk",
+			"ChunkId": "a11036815b6e94d900000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_02.uasset",
+			"ChunkId": "9842d0a445f1875b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_02.ubulk",
+			"ChunkId": "9842d0a445f1875b00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_foundWood_01.uasset",
+			"ChunkId": "1e5726ae06d49a0800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_foundWood_01.ubulk",
+			"ChunkId": "1e5726ae06d49a0800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Couch_01.uasset",
+			"ChunkId": "901f8498e4c0163900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Couch_01.ubulk",
+			"ChunkId": "901f8498e4c0163900000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_lantern.uasset",
+			"ChunkId": "2eee51870025f1da00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_lantern.ubulk",
+			"ChunkId": "2eee51870025f1da00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Document_Organizer_02.uasset",
+			"ChunkId": "8eaa54c723f0c82900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Document_Organizer_02.ubulk",
+			"ChunkId": "8eaa54c723f0c82900000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.uasset",
+			"ChunkId": "71c6880deaef1dbb00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.ubulk",
+			"ChunkId": "71c6880deaef1dbb00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Chair_03.uasset",
+			"ChunkId": "7c6d8811928946a400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Chair_03.ubulk",
+			"ChunkId": "7c6d8811928946a400000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_hydrant.uasset",
+			"ChunkId": "ef9141cab016a70600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_hydrant.ubulk",
+			"ChunkId": "ef9141cab016a70600000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_wheelbarrow.uasset",
+			"ChunkId": "ff6d8391eb4fbc7c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_wheelbarrow.ubulk",
+			"ChunkId": "ff6d8391eb4fbc7c00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Plant_03.uasset",
+			"ChunkId": "4d980c14d298f3a600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Plant_03.ubulk",
+			"ChunkId": "4d980c14d298f3a600000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_sewerCover.uasset",
+			"ChunkId": "06ceddceb0a7453500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_sewerCover.ubulk",
+			"ChunkId": "06ceddceb0a7453500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Laptop_01.uasset",
+			"ChunkId": "68c6f8bdf7ec8fce00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Laptop_01.ubulk",
+			"ChunkId": "68c6f8bdf7ec8fce00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_PinBoard_01.uasset",
+			"ChunkId": "8651be4b129d20b900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_PinBoard_01.ubulk",
+			"ChunkId": "8651be4b129d20b900000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Flag_02.uasset",
+			"ChunkId": "f2b136a965fb01f800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Flag_02.ubulk",
+			"ChunkId": "f2b136a965fb01f800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Radiator_01.uasset",
+			"ChunkId": "c35aa5b8a88a559c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Radiator_01.ubulk",
+			"ChunkId": "c35aa5b8a88a559c00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_bottles.uasset",
+			"ChunkId": "f1c59930016f048a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_bottles.ubulk",
+			"ChunkId": "f1c59930016f048a00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/AssetVille/SK_priest_02.uasset",
+			"ChunkId": "9710f39de8b521b000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_104a.uasset",
+			"ChunkId": "f7bf70e27b68511800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_104a.ubulk",
+			"ChunkId": "f7bf70e27b68511800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_PickupOld_01.uasset",
+			"ChunkId": "28169f8cb91d88a700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_sign_9.uasset",
+			"ChunkId": "fcc7ecb6aa9abb7000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_sign_9.ubulk",
+			"ChunkId": "fcc7ecb6aa9abb7000000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Stamper_01.uasset",
+			"ChunkId": "733598a0e6e1837400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Stamper_01.ubulk",
+			"ChunkId": "733598a0e6e1837400000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Chair_02.uasset",
+			"ChunkId": "6a4436a8ec85600f00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Chair_02.ubulk",
+			"ChunkId": "6a4436a8ec85600f00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_05.uasset",
+			"ChunkId": "37c071641259d9da00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_05.ubulk",
+			"ChunkId": "37c071641259d9da00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_104gate.uasset",
+			"ChunkId": "912458208bd604fc00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_104gate.ubulk",
+			"ChunkId": "912458208bd604fc00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_SUV_01.uasset",
+			"ChunkId": "5feb41e65cdaacb800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Binder_01.uasset",
+			"ChunkId": "9bf0ec1a35e6d50700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Binder_01.ubulk",
+			"ChunkId": "9bf0ec1a35e6d50700000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Counter_02_corner.uasset",
+			"ChunkId": "02666c1d911463b300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Counter_02_corner.ubulk",
+			"ChunkId": "02666c1d911463b300000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_Flagpole.uasset",
+			"ChunkId": "db3d015272d81e2d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_Flagpole.ubulk",
+			"ChunkId": "db3d015272d81e2d00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Bin_01.uasset",
+			"ChunkId": "93e4c08eef236fca00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Bin_01.ubulk",
+			"ChunkId": "93e4c08eef236fca00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_pipesStock_02.uasset",
+			"ChunkId": "2b5be47518ecfeb200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_pipesStock_02.ubulk",
+			"ChunkId": "2b5be47518ecfeb200000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_FireExtinguisher_01.uasset",
+			"ChunkId": "10147e44e79c221900000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_FireExtinguisher_01.ubulk",
+			"ChunkId": "10147e44e79c221900000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_bottle_2.uasset",
+			"ChunkId": "1d11262fc93ac6e400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_bottle_2.ubulk",
+			"ChunkId": "1d11262fc93ac6e400000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_doorFrame_02.uasset",
+			"ChunkId": "c999e884c06ae32d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_doorFrame_02.ubulk",
+			"ChunkId": "c999e884c06ae32d00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_bench_02.uasset",
+			"ChunkId": "4617708b404c0bca00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_bench_02.ubulk",
+			"ChunkId": "4617708b404c0bca00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Box_04.uasset",
+			"ChunkId": "3142e15c9cf6f3f400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Box_04.ubulk",
+			"ChunkId": "3142e15c9cf6f3f400000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_Muscle_01.uasset",
+			"ChunkId": "7daf38f48f80af6b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_PaperShredder_01.uasset",
+			"ChunkId": "9976646137928b4700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_PaperShredder_01.ubulk",
+			"ChunkId": "9976646137928b4700000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/FXVarietyPack/Particles/P_ky_storm.uasset",
+			"ChunkId": "e164bd44721788a500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_handTruck_01.uasset",
+			"ChunkId": "00ea4ef382592e1d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_handTruck_01.ubulk",
+			"ChunkId": "00ea4ef382592e1d00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_WaterDispenser_01.uasset",
+			"ChunkId": "52522c56a19c6c8200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_WaterDispenser_01.ubulk",
+			"ChunkId": "52522c56a19c6c8200000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_bucket_metal.uasset",
+			"ChunkId": "5bbd226d3bcf308a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_bucket_metal.ubulk",
+			"ChunkId": "5bbd226d3bcf308a00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Notepad_02.uasset",
+			"ChunkId": "8a437019f91300dc00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Notepad_02.ubulk",
+			"ChunkId": "8a437019f91300dc00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_SportClassic_01.uasset",
+			"ChunkId": "d300470efcd71e7400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_EagleStatuette_01.uasset",
+			"ChunkId": "c6a1d12da577034200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_EagleStatuette_01.ubulk",
+			"ChunkId": "c6a1d12da577034200000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Chair_04.uasset",
+			"ChunkId": "293781b0a8c06ac800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Chair_04.ubulk",
+			"ChunkId": "293781b0a8c06ac800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_stairsU_01.uasset",
+			"ChunkId": "d4b45f50630f535400000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/BuildingTilset/SM_stairsU_01.ubulk",
+			"ChunkId": "d4b45f50630f535400000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Printer_01.uasset",
+			"ChunkId": "2b321f5c8039cb3b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Printer_01.ubulk",
+			"ChunkId": "2b321f5c8039cb3b00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Telephone_01.uasset",
+			"ChunkId": "fd1dfb5ede0f4ba800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Telephone_01.ubulk",
+			"ChunkId": "fd1dfb5ede0f4ba800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat_set.uasset",
+			"ChunkId": "4e7d584e750dc05800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat_set.ubulk",
+			"ChunkId": "4e7d584e750dc05800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Frame_01.uasset",
+			"ChunkId": "ec494da09596ab5800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Frame_01.ubulk",
+			"ChunkId": "ec494da09596ab5800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_metal_box_2.uasset",
+			"ChunkId": "8e5a068efa86c9bf00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_metal_box_2.ubulk",
+			"ChunkId": "8e5a068efa86c9bf00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_GroundTile.uasset",
+			"ChunkId": "b255d2b80caa1d0a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_BrickSmall_01_red.uasset",
+			"ChunkId": "198a03d9b73a24ba00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_Wallpaper_01_blue.uasset",
+			"ChunkId": "5c18bd22a7eae7b200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_Planks_01.uasset",
+			"ChunkId": "465388c9121ef9bb00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_PoliceCar_01.uasset",
+			"ChunkId": "40bde0c5317545b300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_Leaf_01a.uasset",
+			"ChunkId": "23073265f0ebc97600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_Leaf_01.uasset",
+			"ChunkId": "17d9df56cc0e6a8b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_GrassVertical.uasset",
+			"ChunkId": "23815f7b54611eb100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_basementWall_01.uasset",
+			"ChunkId": "77f9d1b68fa4e0ea00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_basementWall_01.ubulk",
+			"ChunkId": "77f9d1b68fa4e0ea00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_ColorPalette.uasset",
+			"ChunkId": "858afed6a2f7c20300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_traffic_lights_2.uasset",
+			"ChunkId": "3888131a513b4cad00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_traffic_lights_2.ubulk",
+			"ChunkId": "3888131a513b4cad00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash.uasset",
+			"ChunkId": "745a86eb39b0b65500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash.ubulk",
+			"ChunkId": "745a86eb39b0b65500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_box_pallete.uasset",
+			"ChunkId": "4b8e89d195e6d4b500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_box_pallete.ubulk",
+			"ChunkId": "4b8e89d195e6d4b500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_box.uasset",
+			"ChunkId": "98247f9c392faea600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_box.ubulk",
+			"ChunkId": "98247f9c392faea600000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_workbench.uasset",
+			"ChunkId": "cfe317f2d4c0a6af00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_workbench.ubulk",
+			"ChunkId": "cfe317f2d4c0a6af00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_traffic_lights_1.uasset",
+			"ChunkId": "149f990c6db5302800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_traffic_lights_1.ubulk",
+			"ChunkId": "149f990c6db5302800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_1.uasset",
+			"ChunkId": "5cf1288d9b202b2700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_1.ubulk",
+			"ChunkId": "5cf1288d9b202b2700000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_FenceMetal_01.uasset",
+			"ChunkId": "594b19e84351746e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/SM_SkySphere.uasset",
+			"ChunkId": "48df828be219f7ad00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/SM_SkySphere.ubulk",
+			"ChunkId": "48df828be219f7ad00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture.uasset",
+			"ChunkId": "13241c06194f309e00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MasterMaterials/M_Plants.uasset",
+			"ChunkId": "f4ea89fbb0b68e1800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_matteBrown.uasset",
+			"ChunkId": "7fc0623ff52b788f00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_glossyBlue.uasset",
+			"ChunkId": "c3119e36c5b7baa300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_glossyWhite.uasset",
+			"ChunkId": "3521582f50a4dba100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_matteWhite.uasset",
+			"ChunkId": "5dcd725c2e2bfab300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_matteDarkBrown.uasset",
+			"ChunkId": "5e88fe864143266000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_matteDarkGreen.uasset",
+			"ChunkId": "79c692d17a9b3e3200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_glossyRed.uasset",
+			"ChunkId": "1b1c279f240efd4600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_matteDarkRed.uasset",
+			"ChunkId": "8aa6b2370693e56500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_glossyBlack.uasset",
+			"ChunkId": "de3c33112aa5eeea00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_glossyOrange.uasset",
+			"ChunkId": "10cbf8278d3d4c9e00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_matteDarkGrey.uasset",
+			"ChunkId": "2b5c9a55cbcbade500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_matteGrey.uasset",
+			"ChunkId": "53e546f4de8e1bbc00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette.uasset",
+			"ChunkId": "3cf2fb07bf2fb04200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MasterMaterials/M_AlphaTest.uasset",
+			"ChunkId": "26f52940d9a383b000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_GlassBasic.uasset",
+			"ChunkId": "26a168d58bfdc4dd00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MI_Water.uasset",
+			"ChunkId": "6c6d782528a2b12600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
+			"ChunkId": "6098725f85292e1b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Poses/A_characterPoses.uasset",
+			"ChunkId": "03858c1ca1ccb05a00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset",
+			"ChunkId": "b6a513461fb2c81a00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor.uasset",
+			"ChunkId": "1559e164e96a05a000000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Materials/MasterMaterials/M_Glass.uasset",
+			"ChunkId": "c0bb1d91092f7d0c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_TruckTow_Physics.uasset",
+			"ChunkId": "528814be99ee940600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/SkeletonCar.uasset",
+			"ChunkId": "d3aa55c6fd8cdc7700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_SportClassic_02_Physics.uasset",
+			"ChunkId": "2e37465b1cf40ce400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+			"ChunkId": "e61c20398c40eda200000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/AssetVille/SkeletonCharacter.uasset",
+			"ChunkId": "ca5f7b2cd961014700000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/Animations/AssetVille/PH_characterPhysicsAsset.uasset",
+			"ChunkId": "9153e06e39306ce100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_PickupOld_01_Physics.uasset",
+			"ChunkId": "3f6c77052cc29b5300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_SUV_01_Physics.uasset",
+			"ChunkId": "f43dbfa20d3f799c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_Muscle_01_Physics.uasset",
+			"ChunkId": "5606f0bb66485c3c00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_PoliceCarSUV_01_Physics.uasset",
+			"ChunkId": "53526263c3a1b82600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_SportClassic_01_Physics.uasset",
+			"ChunkId": "734b48abe17f119d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
+			"ChunkId": "cb90c94586b3228900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset",
+			"ChunkId": "dee7fa19f423dfad00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.uasset",
+			"ChunkId": "56d51199b9b2142a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.ubulk",
+			"ChunkId": "56d51199b9b2142a00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.uasset",
+			"ChunkId": "bc6a9f35f40001ae00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.ubulk",
+			"ChunkId": "bc6a9f35f40001ae00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/T_fenceMetal_01.uasset",
+			"ChunkId": "6fd6b34e320c2ea800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/T_fenceMetal_01.ubulk",
+			"ChunkId": "6fd6b34e320c2ea800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_23.uasset",
+			"ChunkId": "2afe31b947c6928d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_23.ubulk",
+			"ChunkId": "2afe31b947c6928d00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.uasset",
+			"ChunkId": "b5c9cff305e4057b00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.ubulk",
+			"ChunkId": "b5c9cff305e4057b00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Base/T_roadSet.uasset",
+			"ChunkId": "5af5beb128fbf6e300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Base/T_roadSet.ubulk",
+			"ChunkId": "5af5beb128fbf6e300000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.uasset",
+			"ChunkId": "c03eb13429aae13800000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.ubulk",
+			"ChunkId": "c03eb13429aae13800000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.uasset",
+			"ChunkId": "da32bccd3d0fa6f300000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.ubulk",
+			"ChunkId": "da32bccd3d0fa6f300000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Tiled/T_brickSmall_01_red.uasset",
+			"ChunkId": "05e024f5ddc0bf1f00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Tiled/T_brickSmall_01_red.ubulk",
+			"ChunkId": "05e024f5ddc0bf1f00000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_01_blue.uasset",
+			"ChunkId": "3262c4b4e1b987a100000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_01_blue.ubulk",
+			"ChunkId": "3262c4b4e1b987a100000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.uasset",
+			"ChunkId": "c6c5bf49b495e5a500000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.ubulk",
+			"ChunkId": "c6c5bf49b495e5a500000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Foliage/T_grassAlpha.uasset",
+			"ChunkId": "bbfbd0702bbfea3d00000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/Foliage/T_grassAlpha.ubulk",
+			"ChunkId": "bbfbd0702bbfea3d00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
+			"ChunkId": "86737b633647e77300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Blue.ubulk",
+			"ChunkId": "86737b633647e77300000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
+			"ChunkId": "927b2fe4876a1f7400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk",
+			"ChunkId": "927b2fe4876a1f7400000002"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/T_PoliceCar_01.uasset",
+			"ChunkId": "30c98631254c06a600000001"
+		},
+		{
+			"Path": "GameDevTvGameJam/Content/AssetsvilleTown/Textures/T_PoliceCar_01.ubulk",
+			"ChunkId": "30c98631254c06a600000002"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/ControlRig/Controls/ControlRigGizmoMaterial",
+			"PackageChunkId": "90442f10ca8d9eb700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlueNoise",
+			"PackageChunkId": "1439d3a2f78315bf00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/DebugEditorMaterial",
+			"PackageChunkId": "7045cf1b55a1317500000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Master",
+			"PackageChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/CoreParameters",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/LightRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/MeshRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/RibbonRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/SpriteRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDestructiblePhysicalMaterial",
+			"PackageChunkId": "f324387808549ca400000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
+			"PackageChunkId": "86f514aa5cdc08e700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/GizmoMaterial",
+			"PackageChunkId": "4f766dcdfcc10abc00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
+			"PackageChunkId": "d9ef76f15dcbda9d00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
+			"PackageChunkId": "f0a7f83421ac425b00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector",
+			"PackageChunkId": "5f510b7cd6e0bdc800000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboard",
+			"PackageChunkId": "8fcb1cae0c92026900000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeWind",
+			"PackageChunkId": "11e16642d5df4eca00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeCameraFacing",
+			"PackageChunkId": "a8a408dbac6bb61700000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackInteger3",
+			"PackageChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackDirection",
+			"PackageChunkId": "931f8593c76b1a3700000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeWindMotion",
+			"PackageChunkId": "3bd77c49df92ee7b00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBranchMotion",
+			"PackageChunkId": "bb0c9910913c4acc00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength",
+			"PackageChunkId": "3f4f90b51972562400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize",
+			"PackageChunkId": "b2e55f36209c19b000000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds",
+			"PackageChunkId": "8d4486caf50605b200000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset",
+			"PackageChunkId": "84ee12d7bc5f5a8000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/DefaultGizmoLibraryNormalized",
+			"PackageChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Name": "/Engine/Tutorial/ContentIntroCurve",
+			"PackageChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairMeshesDefaultMaterial",
+			"PackageChunkId": "a325708448a8980800000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairCardsDefaultMaterial",
+			"PackageChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairDefaultMaterial",
+			"PackageChunkId": "7bae9d93c88ae44900000001"
+		},
+		{
+			"Name": "/Engine/EditorLandscapeResources/DataLayer",
+			"PackageChunkId": "fe8e2f79bc05d6e200000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoRegular",
+			"PackageChunkId": "5ba734afa75fb33c00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoLight",
+			"PackageChunkId": "0668993fb5b5811c00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoItalic",
+			"PackageChunkId": "6ef7eb5c150af73a00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoBoldItalic",
+			"PackageChunkId": "0fcbf7e6705a3afe00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoBold",
+			"PackageChunkId": "368e94bf2073b74d00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/DroidSansFallback",
+			"PackageChunkId": "a9e44eb998f07d0800000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+			"PackageChunkId": "a06a91154845992200000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/Camera/CineMat",
+			"PackageChunkId": "a60f7c53ca2e732e00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/Xray",
+			"PackageChunkId": "b0afffa81f17b5cc00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/Main",
+			"PackageChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Solver",
+			"PackageChunkId": "5c918efb403d4bb200000001",
+			"BulkDataChunkIds": [
+				"5c918efb403d4bb200000002"
+			]
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/Empty",
+			"PackageChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture",
+			"PackageChunkId": "b60fa590a5fe4d6f00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap",
+			"PackageChunkId": "c18dd883a0c55c8b00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Terrain",
+			"PackageChunkId": "5cea311860b94ecb00000001",
+			"BulkDataChunkIds": [
+				"5cea311860b94ecb00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorLandscapeResources/DefaultAlphaTexture",
+			"PackageChunkId": "8b12fc0ce026f5be00000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000",
+			"PackageChunkId": "ad84bf334b97e1af00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultBloomKernel",
+			"PackageChunkId": "cbab6b01dd8b7ffe00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/BSPVertex",
+			"PackageChunkId": "9784ada5ce57b7cb00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/SequenceRecorder/RecordingIndicator",
+			"PackageChunkId": "9c7151fedab8d7e200000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/SequenceRecorder/Countdown",
+			"PackageChunkId": "fd5c4b2d837478ae00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid",
+			"PackageChunkId": "624f937426db20c500000001",
+			"BulkDataChunkIds": [
+				"624f937426db20c500000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
+			"PackageChunkId": "4077f21c1acd58d500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/MiniFont",
+			"PackageChunkId": "58ac407f95ae164b00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
+			"PackageChunkId": "b60efe12572543e800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultBokeh",
+			"PackageChunkId": "65401b411493477b00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
+			"PackageChunkId": "1c3a80931d7381bf00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT",
+			"PackageChunkId": "4eefe050ec0582d800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap_VT",
+			"PackageChunkId": "28ed83b8029dd22900000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor_VT",
+			"PackageChunkId": "c599b991259f3dc100000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT",
+			"PackageChunkId": "0219c3161c6d6eb200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT",
+			"PackageChunkId": "d77ca907bf9be46e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT",
+			"PackageChunkId": "adba4404ca6448ad00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor",
+			"PackageChunkId": "768633666781f70600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap",
+			"PackageChunkId": "2563b8e7aff6d26e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap",
+			"PackageChunkId": "7ba7b2b1aeafb4cc00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap",
+			"PackageChunkId": "641c8321450e97f400000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/InvalidLightmapSettings",
+			"PackageChunkId": "cdb6f2e8065df7c100000001",
+			"BulkDataChunkIds": [
+				"cdb6f2e8065df7c100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid_Low",
+			"PackageChunkId": "8500a33b2fedbab800000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/VolumeToRender",
+			"PackageChunkId": "7f8259be57e87dce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/EmptyNormal",
+			"PackageChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
+			"PackageChunkId": "27d3dbbd9cb5875a00000001",
+			"BulkDataChunkIds": [
+				"27d3dbbd9cb5875a00000002"
+			]
+		},
+		{
+			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
+			"PackageChunkId": "2cc5808063f890db00000001",
+			"BulkDataChunkIds": [
+				"2cc5808063f890db00000002"
+			]
+		},
+		{
+			"Name": "/HairStrands/Materials/HairGroupColors",
+			"PackageChunkId": "55c5d73fec0135d200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairDebugColor",
+			"PackageChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairColorMap",
+			"PackageChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
+			"PackageChunkId": "0bf1d6a9c47f8ccc00000001",
+			"BulkDataChunkIds": [
+				"0bf1d6a9c47f8ccc00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
+			"PackageChunkId": "ba6543c81e92e56d00000001",
+			"BulkDataChunkIds": [
+				"ba6543c81e92e56d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
+			"PackageChunkId": "f267c7830989284200000001"
+		},
+		{
+			"Name": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
+			"PackageChunkId": "79688f0e793acea100000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4",
+			"PackageChunkId": "0ccdb42a00235ca400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3",
+			"PackageChunkId": "3f9ae4ae5e9a10b000000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components",
+			"PackageChunkId": "7276d40fd50dba5900000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2",
+			"PackageChunkId": "a29fb34f83f7d31a00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components",
+			"PackageChunkId": "94d5e4cbc0f4380c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
+			"PackageChunkId": "0125e0852ce3d3e700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
+			"PackageChunkId": "6a3b7a697242e13400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
+			"PackageChunkId": "6752d9e62e6e395700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
+			"PackageChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Name": "/Engine/EngineMeshes/Sphere",
+			"PackageChunkId": "f421d8f857b9ed0300000001",
+			"BulkDataChunkIds": [
+				"f421d8f857b9ed0300000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Name": "/Game/Animations/Skeleton/Mixamo_Skeleton",
+			"PackageChunkId": "1e18a572bcbef3ee00000001"
+		},
+		{
+			"Name": "/Game/Animations/Skeleton/Zombie_Idle_PhysicsAsset",
+			"PackageChunkId": "cf8acd3b42970b1b00000001"
+		},
+		{
+			"Name": "/Game/Animations/Skeleton/Zombie_IdleWith_Zombie_SKIN_PhysicsAsset",
+			"PackageChunkId": "82ffc524f6e5ab7b00000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimBoneCompressionSettings",
+			"PackageChunkId": "19aece732b01cd4000000001"
+		},
+		{
+			"Name": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
+			"PackageChunkId": "fd3456639b15286700000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/M_ky_empty",
+			"PackageChunkId": "347b7af7cceea01c00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs",
+			"PackageChunkId": "adfc0c5cb146690600000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient",
+			"PackageChunkId": "e43855b9d402d6d500000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing",
+			"PackageChunkId": "d812587583a9535d00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity",
+			"PackageChunkId": "8ecbf6c61162774100000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+			"PackageChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
+			"PackageChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial",
+			"PackageChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+			"PackageChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
+			"PackageChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
+			"PackageChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
+			"PackageChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Name": "/Game/Audio/Game1",
+			"PackageChunkId": "5d6c53204b3fd01200000001",
+			"BulkDataChunkIds": [
+				"5d6c53204b3fd01200000002"
+			]
+		},
+		{
+			"Name": "/Game/MainMenu/TestImage",
+			"PackageChunkId": "708f06661f1f9e6c00000001"
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch01_1001_Diffuse",
+			"PackageChunkId": "1d9156b8f6bdf2d600000001",
+			"BulkDataChunkIds": [
+				"1d9156b8f6bdf2d600000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch01_1001_Glossiness",
+			"PackageChunkId": "516a46f02e93f36c00000001",
+			"BulkDataChunkIds": [
+				"516a46f02e93f36c00000002"
+			]
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade",
+			"PackageChunkId": "2917d76711e58ca300000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack",
+			"PackageChunkId": "12bace0bc8b42ac000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
+			"PackageChunkId": "b743bdd5e5df72a400000001",
+			"BulkDataChunkIds": [
+				"b743bdd5e5df72a400000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/LaserPointer/VR_LaserPower_01",
+			"PackageChunkId": "200cd3dc0f3f673a00000001",
+			"BulkDataChunkIds": [
+				"200cd3dc0f3f673a00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseShape64",
+			"PackageChunkId": "a996adcfa357ed2d00000001",
+			"BulkDataChunkIds": [
+				"a996adcfa357ed2d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64",
+			"PackageChunkId": "730711032edb546300000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseErosion",
+			"PackageChunkId": "92d47df83dccf7d800000001",
+			"BulkDataChunkIds": [
+				"92d47df83dccf7d800000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32",
+			"PackageChunkId": "e21a9990b0ff22d600000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture",
+			"PackageChunkId": "b3b465c34fc83f8e00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/CloudGradientTexture",
+			"PackageChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerSphere",
+			"PackageChunkId": "67d4e8f2a83a1c4800000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerCapsule",
+			"PackageChunkId": "a8fda97722bfb0e600000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerBox",
+			"PackageChunkId": "8953c1244c740aad00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Trigger",
+			"PackageChunkId": "9acae5549f0219b000000001",
+			"BulkDataChunkIds": [
+				"9acae5549f0219b000000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
+			"PackageChunkId": "7539f12095a3f0d100000001",
+			"BulkDataChunkIds": [
+				"7539f12095a3f0d100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
+			"PackageChunkId": "7a7173cfb4095b9f00000001",
+			"BulkDataChunkIds": [
+				"7a7173cfb4095b9f00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineFonts/RobotoDistanceField",
+			"PackageChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture2D",
+			"PackageChunkId": "6c54e7f6d4ea912200000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture",
+			"PackageChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTextureCube",
+			"PackageChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTexture",
+			"PackageChunkId": "6baf53cf79c0948b00000001",
+			"BulkDataChunkIds": [
+				"6baf53cf79c0948b00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MAT_Groups_Visibility",
+			"PackageChunkId": "2127f99d332bc85400000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
+			"PackageChunkId": "42a5bdf71bdb9f1200000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MAT_Groups_Toggle",
+			"PackageChunkId": "c88f4734102acff000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound",
+			"PackageChunkId": "85cfc579099524d700000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo",
+			"PackageChunkId": "3971ec1ba77895c500000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move",
+			"PackageChunkId": "100a686260435bc000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event",
+			"PackageChunkId": "b82834f1c5d5064600000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director",
+			"PackageChunkId": "b3b0c8e737f4c6b200000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster",
+			"PackageChunkId": "c6249d4d30bbac8400000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim",
+			"PackageChunkId": "9148ba92525e0ece00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float",
+			"PackageChunkId": "a69bcbb54afb7d4300000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/Black",
+			"PackageChunkId": "cda0cf6115260c9400000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/GradientTexture0",
+			"PackageChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/WhiteSquareTexture",
+			"PackageChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_BoxReflectionCapture",
+			"PackageChunkId": "ff5a26a059754af200000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Actor",
+			"PackageChunkId": "bd472f8cbf5f723d00000001",
+			"BulkDataChunkIds": [
+				"bd472f8cbf5f723d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Grunt",
+			"PackageChunkId": "5005cf0a7be1613e00000001"
+		},
+		{
+			"Name": "/Game/Audio/Scream",
+			"PackageChunkId": "88e4d8567d04517900000001",
+			"BulkDataChunkIds": [
+				"88e4d8567d04517900000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Game/Audio/Menu",
+			"PackageChunkId": "e1062fbe1f590dcd00000001",
+			"BulkDataChunkIds": [
+				"e1062fbe1f590dcd00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Thunder",
+			"PackageChunkId": "e87f590b9a75453600000001",
+			"BulkDataChunkIds": [
+				"e87f590b9a75453600000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch01_1001_Specular",
+			"PackageChunkId": "46a56674e83d598700000001",
+			"BulkDataChunkIds": [
+				"46a56674e83d598700000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_1001_Diffuse",
+			"PackageChunkId": "941680964efbf48500000001",
+			"BulkDataChunkIds": [
+				"941680964efbf48500000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_1001_Glossiness",
+			"PackageChunkId": "15235bb587f4605500000001",
+			"BulkDataChunkIds": [
+				"15235bb587f4605500000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_1001_Specular",
+			"PackageChunkId": "c15d678b55012be900000001",
+			"BulkDataChunkIds": [
+				"c15d678b55012be900000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
+			"PackageChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"PackageChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Name": "/Paper2D/DummySprite",
+			"PackageChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"PackageChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Roboto",
+			"PackageChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/Camera/MI_CineMat_Rig",
+			"PackageChunkId": "ea704fa9c99103cc00000001"
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/SM_Sequencer_Node",
+			"PackageChunkId": "6e6a371ba7ffd6e900000001",
+			"BulkDataChunkIds": [
+				"6e6a371ba7ffd6e900000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
+			"PackageChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
+			"PackageChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
+			"PackageChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairDebugMaterial",
+			"PackageChunkId": "3889933e64b3022c00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
+			"PackageChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
+			"PackageChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+			"PackageChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultMaterial",
+			"PackageChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
+			"PackageChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_stone02_2x2",
+			"PackageChunkId": "d53d636e76ceb15300000001",
+			"BulkDataChunkIds": [
+				"d53d636e76ceb15300000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch01_1001_Normal",
+			"PackageChunkId": "f9f91bed3f62499a00000001",
+			"BulkDataChunkIds": [
+				"f9f91bed3f62499a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch01_1001_Diffuse_ncl1_1",
+			"PackageChunkId": "fa8a7fd3327b808500000001",
+			"BulkDataChunkIds": [
+				"fa8a7fd3327b808500000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch01_1001_Normal_ncl1_1",
+			"PackageChunkId": "f14ae076a3e7d4be00000001",
+			"BulkDataChunkIds": [
+				"f14ae076a3e7d4be00000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_1001_Normal",
+			"PackageChunkId": "5070f4c75e42ec4500000001",
+			"BulkDataChunkIds": [
+				"5070f4c75e42ec4500000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_1002_Diffuse",
+			"PackageChunkId": "57298a179f8d1a6300000001",
+			"BulkDataChunkIds": [
+				"57298a179f8d1a6300000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_1002_Glossiness",
+			"PackageChunkId": "fa0ba4287dd51e8a00000001",
+			"BulkDataChunkIds": [
+				"fa0ba4287dd51e8a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_1002_Normal",
+			"PackageChunkId": "43e1e25120f1b01600000001",
+			"BulkDataChunkIds": [
+				"43e1e25120f1b01600000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_1002_Specular",
+			"PackageChunkId": "3aab66457af4766100000001",
+			"BulkDataChunkIds": [
+				"3aab66457af4766100000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_flare_a",
+			"PackageChunkId": "e1d58ba21af4e8c500000001",
+			"BulkDataChunkIds": [
+				"e1d58ba21af4e8c500000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_noise17",
+			"PackageChunkId": "c8f17e3004ebc2de00000001",
+			"BulkDataChunkIds": [
+				"c8f17e3004ebc2de00000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_noise4",
+			"PackageChunkId": "1438d6f606c9c35d00000001",
+			"BulkDataChunkIds": [
+				"1438d6f606c9c35d00000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_noise6",
+			"PackageChunkId": "5546798c23e12fb500000001",
+			"BulkDataChunkIds": [
+				"5546798c23e12fb500000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_maskRGB3",
+			"PackageChunkId": "24ced509ae6a410000000001",
+			"BulkDataChunkIds": [
+				"24ced509ae6a410000000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_noise5",
+			"PackageChunkId": "5047a50f3aeaed0500000001",
+			"BulkDataChunkIds": [
+				"5047a50f3aeaed0500000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_dist_noise",
+			"PackageChunkId": "987ed7e61ddf18a900000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_smoke_kai",
+			"PackageChunkId": "60e341a72e55c56c00000001",
+			"BulkDataChunkIds": [
+				"60e341a72e55c56c00000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Textures/T_ky_vortex04_4x4",
+			"PackageChunkId": "28339a75b6f2533200000001",
+			"BulkDataChunkIds": [
+				"28339a75b6f2533200000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+			"PackageChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
+			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
+			"PackageChunkId": "14c0e68102482a4700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationColor",
+			"PackageChunkId": "a4739b1d475b4a3e00000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
+			"PackageChunkId": "37cdeb5ce1d3ccd800000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
+			"PackageChunkId": "fabb39727be145c100000001"
+		},
+		{
+			"Name": "/Game/MainMenu/MainMenuWidget",
+			"PackageChunkId": "3819534f5ef4c91b00000001"
+		},
+		{
+			"Name": "/Game/Animations/Zombie_Dying",
+			"PackageChunkId": "21a94c1748beacd100000001"
+		},
+		{
+			"Name": "/Game/Animations/Zombie_Attack",
+			"PackageChunkId": "97b4c696ee5d5e2c00000001"
+		},
+		{
+			"Name": "/Game/Animations/Zombie_Stand_Up",
+			"PackageChunkId": "f7bd9594f8f6db5f00000001"
+		},
+		{
+			"Name": "/Game/Animations/Fast_Run",
+			"PackageChunkId": "c481bfa319bf3e3a00000001"
+		},
+		{
+			"Name": "/Game/Animations/Skeleton/Idle",
+			"PackageChunkId": "5bdc276962a43fb600000001"
+		},
+		{
+			"Name": "/Game/Animations/Standard_Walk",
+			"PackageChunkId": "202555f3820f6a7100000001"
+		},
+		{
+			"Name": "/Game/Animations/Zombie_Running",
+			"PackageChunkId": "b272ab62ff10fa3400000001"
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch01_body",
+			"PackageChunkId": "cfb4433487e0923900000001"
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch01_hair",
+			"PackageChunkId": "5b314e4fe5a0435100000001"
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_body",
+			"PackageChunkId": "eb2758853de6f13400000001"
+		},
+		{
+			"Name": "/Game/Animations/Materials/Ch10_body1",
+			"PackageChunkId": "3bb1dce6eddbef6200000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/M_ky_flare_flash",
+			"PackageChunkId": "a2c97138944f811a00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA",
+			"PackageChunkId": "bdbcf28d7739806c00000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder",
+			"PackageChunkId": "15176bd3804b017c00000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight",
+			"PackageChunkId": "4638b1a57452003500000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/Mfunction/MF_ky_TexController",
+			"PackageChunkId": "a5ce61de9cb2501800000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive",
+			"PackageChunkId": "8ab2ea18024af3bf00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential",
+			"PackageChunkId": "8e09f0ed48a33b1a00000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/M_ky_vortex04_4x4",
+			"PackageChunkId": "b60f6b75e49c3a9400000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultPaperTerrainMaterial",
+			"PackageChunkId": "1eb36adebf3e8d6900000001"
+		},
+		{
+			"Name": "/Paper2D/OpaqueUnlitSpriteMaterial",
+			"PackageChunkId": "b2e758c7adce0aa000000001"
+		},
+		{
+			"Name": "/Paper2D/MaskedUnlitSpriteMaterial",
+			"PackageChunkId": "603c62bd8092b35100000001"
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_RailRig_Mount",
+			"PackageChunkId": "11adfda265bc32c200000001",
+			"BulkDataChunkIds": [
+				"11adfda265bc32c200000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_RailRig_Track",
+			"PackageChunkId": "d4904df7434a1c3e00000001",
+			"BulkDataChunkIds": [
+				"d4904df7434a1c3e00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Body",
+			"PackageChunkId": "92fa3fc272bbaee700000001",
+			"BulkDataChunkIds": [
+				"92fa3fc272bbaee700000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Mount",
+			"PackageChunkId": "913432800511c53c00000001",
+			"BulkDataChunkIds": [
+				"913432800511c53c00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Arm",
+			"PackageChunkId": "24be0d3101b3b5c400000001",
+			"BulkDataChunkIds": [
+				"24be0d3101b3b5c400000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMeshes/Camera/SM_CraneRig_Base",
+			"PackageChunkId": "4783ca75c2bc153700000001",
+			"BulkDataChunkIds": [
+				"4783ca75c2bc153700000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/BoundingBoxEdge",
+			"PackageChunkId": "8c9eb2537b56333800000001",
+			"BulkDataChunkIds": [
+				"8c9eb2537b56333800000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/BoundingBoxCorner",
+			"PackageChunkId": "68b44f7e8ffd781d00000001",
+			"BulkDataChunkIds": [
+				"68b44f7e8ffd781d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/PlaneTranslationHandle",
+			"PackageChunkId": "85fc957de8cdf73500000001",
+			"BulkDataChunkIds": [
+				"85fc957de8cdf73500000002"
+			]
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster",
+			"PackageChunkId": "0ec7598e2050155600000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster",
+			"PackageChunkId": "7bb897d6d85abe5e00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst",
+			"PackageChunkId": "4b7bf926a5212df600000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cone",
+			"PackageChunkId": "f23f619700918ac500000001",
+			"BulkDataChunkIds": [
+				"f23f619700918ac500000002"
+			]
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cylinder",
+			"PackageChunkId": "7607d982d08b414700000001",
+			"BulkDataChunkIds": [
+				"7607d982d08b414700000002"
+			]
+		},
+		{
+			"Name": "/Engine/BasicShapes/Sphere",
+			"PackageChunkId": "4a782f60fcb4c26e00000001",
+			"BulkDataChunkIds": [
+				"4a782f60fcb4c26e00000002"
+			]
+		},
+		{
+			"Name": "/Engine/Maps/Entry",
+			"PackageChunkId": "d31cf458faf4915200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_solid",
+			"PackageChunkId": "1595b610bf425b8d00000001",
+			"BulkDataChunkIds": [
+				"1595b610bf425b8d00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_3mm",
+			"PackageChunkId": "0d2d768a1192b97000000001",
+			"BulkDataChunkIds": [
+				"0d2d768a1192b97000000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_1mm",
+			"PackageChunkId": "c66b43ec76bfc59100000001",
+			"BulkDataChunkIds": [
+				"c66b43ec76bfc59100000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_solid",
+			"PackageChunkId": "635920dd8e97e89c00000001",
+			"BulkDataChunkIds": [
+				"635920dd8e97e89c00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_3mm",
+			"PackageChunkId": "81e5ad0aacfbd7d600000001",
+			"BulkDataChunkIds": [
+				"81e5ad0aacfbd7d600000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_1mm",
+			"PackageChunkId": "ee735f95c6fe420100000001",
+			"BulkDataChunkIds": [
+				"ee735f95c6fe420100000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_solid",
+			"PackageChunkId": "299f33e3d422c87c00000001",
+			"BulkDataChunkIds": [
+				"299f33e3d422c87c00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_3mm",
+			"PackageChunkId": "6bcf318dbf32160d00000001",
+			"BulkDataChunkIds": [
+				"6bcf318dbf32160d00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_1mm",
+			"PackageChunkId": "8ff50e13d07b6e9600000001",
+			"BulkDataChunkIds": [
+				"8ff50e13d07b6e9600000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_solid",
+			"PackageChunkId": "282dd182b8a2782f00000001",
+			"BulkDataChunkIds": [
+				"282dd182b8a2782f00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_3mm",
+			"PackageChunkId": "2c09f940b5d3cf5600000001",
+			"BulkDataChunkIds": [
+				"2c09f940b5d3cf5600000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_1mm",
+			"PackageChunkId": "d77ff1320cafb8eb00000001",
+			"BulkDataChunkIds": [
+				"d77ff1320cafb8eb00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_3mm",
+			"PackageChunkId": "3c8fe56dcc4c94e400000001",
+			"BulkDataChunkIds": [
+				"3c8fe56dcc4c94e400000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_1mm",
+			"PackageChunkId": "021da6225c7f517f00000001",
+			"BulkDataChunkIds": [
+				"021da6225c7f517f00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_solid",
+			"PackageChunkId": "2f97b476b27e825100000001",
+			"BulkDataChunkIds": [
+				"2f97b476b27e825100000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_3mm",
+			"PackageChunkId": "81539c5da11600ae00000001",
+			"BulkDataChunkIds": [
+				"81539c5da11600ae00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_1mm",
+			"PackageChunkId": "8a3d5c4c771cc2b800000001",
+			"BulkDataChunkIds": [
+				"8a3d5c4c771cc2b800000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_solid",
+			"PackageChunkId": "47760300c23f376100000001",
+			"BulkDataChunkIds": [
+				"47760300c23f376100000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_3mm",
+			"PackageChunkId": "e2e0e65221e757ff00000001",
+			"BulkDataChunkIds": [
+				"e2e0e65221e757ff00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_1mm",
+			"PackageChunkId": "7d129f2ecdbade0a00000001",
+			"BulkDataChunkIds": [
+				"7d129f2ecdbade0a00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_solid",
+			"PackageChunkId": "a1157adbe06ab91600000001",
+			"BulkDataChunkIds": [
+				"a1157adbe06ab91600000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_3mm",
+			"PackageChunkId": "0f013d461d34e71f00000001",
+			"BulkDataChunkIds": [
+				"0f013d461d34e71f00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_1mm",
+			"PackageChunkId": "1380a38fb2d9d09b00000001",
+			"BulkDataChunkIds": [
+				"1380a38fb2d9d09b00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_solid",
+			"PackageChunkId": "ccfbf6fb8c94d52600000001",
+			"BulkDataChunkIds": [
+				"ccfbf6fb8c94d52600000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_3mm",
+			"PackageChunkId": "2feae67d1f28277b00000001",
+			"BulkDataChunkIds": [
+				"2feae67d1f28277b00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_1mm",
+			"PackageChunkId": "e28775e15c9fefaa00000001",
+			"BulkDataChunkIds": [
+				"e28775e15c9fefaa00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_solid",
+			"PackageChunkId": "c42798d4b7d7893a00000001",
+			"BulkDataChunkIds": [
+				"c42798d4b7d7893a00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_3mm",
+			"PackageChunkId": "db28b8396928adf000000001",
+			"BulkDataChunkIds": [
+				"db28b8396928adf000000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_1mm",
+			"PackageChunkId": "9936bd915052cb2200000001",
+			"BulkDataChunkIds": [
+				"9936bd915052cb2200000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_solid",
+			"PackageChunkId": "1b6c8e2dd045aecf00000001",
+			"BulkDataChunkIds": [
+				"1b6c8e2dd045aecf00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_3mm",
+			"PackageChunkId": "d23a4e7d2f47187c00000001",
+			"BulkDataChunkIds": [
+				"d23a4e7d2f47187c00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_1mm",
+			"PackageChunkId": "1d747f2667a6cc3e00000001",
+			"BulkDataChunkIds": [
+				"1d747f2667a6cc3e00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_solid",
+			"PackageChunkId": "d1e559d0e2302cd200000001",
+			"BulkDataChunkIds": [
+				"d1e559d0e2302cd200000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_3mm",
+			"PackageChunkId": "41772863b6990e2300000001",
+			"BulkDataChunkIds": [
+				"41772863b6990e2300000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_1mm",
+			"PackageChunkId": "88eaefb43659df9600000001",
+			"BulkDataChunkIds": [
+				"88eaefb43659df9600000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_solid",
+			"PackageChunkId": "5f0bb60d5aa9cbe000000001",
+			"BulkDataChunkIds": [
+				"5f0bb60d5aa9cbe000000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_3mm",
+			"PackageChunkId": "a91d103488503cd200000001",
+			"BulkDataChunkIds": [
+				"a91d103488503cd200000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_1mm",
+			"PackageChunkId": "b971d0721fc7bec800000001",
+			"BulkDataChunkIds": [
+				"b971d0721fc7bec800000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_solid",
+			"PackageChunkId": "032dd1d44e4fc35000000001",
+			"BulkDataChunkIds": [
+				"032dd1d44e4fc35000000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_3mm",
+			"PackageChunkId": "26708189dce06d9c00000001",
+			"BulkDataChunkIds": [
+				"26708189dce06d9c00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_1mm",
+			"PackageChunkId": "b0e6f22a1229f33400000001",
+			"BulkDataChunkIds": [
+				"b0e6f22a1229f33400000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_solid",
+			"PackageChunkId": "b6ecf8eaf9e325c400000001",
+			"BulkDataChunkIds": [
+				"b6ecf8eaf9e325c400000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_3mm",
+			"PackageChunkId": "1d2105a53b99f8b400000001",
+			"BulkDataChunkIds": [
+				"1d2105a53b99f8b400000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_1mm",
+			"PackageChunkId": "0bd00fa41afbdaed00000001",
+			"BulkDataChunkIds": [
+				"0bd00fa41afbdaed00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_solid",
+			"PackageChunkId": "4bf1e0df3070bca100000001",
+			"BulkDataChunkIds": [
+				"4bf1e0df3070bca100000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_3mm",
+			"PackageChunkId": "6ff734fd30628e8c00000001",
+			"BulkDataChunkIds": [
+				"6ff734fd30628e8c00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_1mm",
+			"PackageChunkId": "c37eb6c5460e3abb00000001",
+			"BulkDataChunkIds": [
+				"c37eb6c5460e3abb00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_solid",
+			"PackageChunkId": "34f8d388913445db00000001",
+			"BulkDataChunkIds": [
+				"34f8d388913445db00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_3mm",
+			"PackageChunkId": "d623d5bc8818ccbe00000001",
+			"BulkDataChunkIds": [
+				"d623d5bc8818ccbe00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_1mm",
+			"PackageChunkId": "42cab4d3ee68987100000001",
+			"BulkDataChunkIds": [
+				"42cab4d3ee68987100000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_solid",
+			"PackageChunkId": "dbdfc4bccd3d616d00000001",
+			"BulkDataChunkIds": [
+				"dbdfc4bccd3d616d00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_3mm",
+			"PackageChunkId": "29ff7e5dd78cdef100000001",
+			"BulkDataChunkIds": [
+				"29ff7e5dd78cdef100000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_1mm",
+			"PackageChunkId": "a9e8edb09171185f00000001",
+			"BulkDataChunkIds": [
+				"a9e8edb09171185f00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_solid",
+			"PackageChunkId": "1b32f3f341cb246000000001",
+			"BulkDataChunkIds": [
+				"1b32f3f341cb246000000002"
+			]
+		},
+		{
+			"Name": "/Engine/BasicShapes/Plane",
+			"PackageChunkId": "a44601bc68ca3f2400000001",
+			"BulkDataChunkIds": [
+				"a44601bc68ca3f2400000002"
+			]
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cube",
+			"PackageChunkId": "71fe0432abe4de2400000001",
+			"BulkDataChunkIds": [
+				"71fe0432abe4de2400000002"
+			]
+		},
+		{
+			"Name": "/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane",
+			"PackageChunkId": "7b9c08e592b6f57800000001",
+			"BulkDataChunkIds": [
+				"7b9c08e592b6f57800000002"
+			]
+		},
+		{
+			"Name": "/Game/Main",
+			"PackageChunkId": "6957c7cdba12897f00000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Meshes/SM_ky_circleDist06",
+			"PackageChunkId": "feae740b35d6dd3b00000001",
+			"BulkDataChunkIds": [
+				"feae740b35d6dd3b00000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Meshes/SM_ky_quad_centerRot",
+			"PackageChunkId": "23d7172b49a2fc4100000001",
+			"BulkDataChunkIds": [
+				"23d7172b49a2fc4100000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Meshes/SM_ky_tornado07",
+			"PackageChunkId": "d9635334b8b3d5de00000001",
+			"BulkDataChunkIds": [
+				"d9635334b8b3d5de00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked",
+			"PackageChunkId": "85eb7ec9f6c8613a00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
+			"PackageChunkId": "dd353fe85598727e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
+			"PackageChunkId": "34868b7f9c10838900000001"
+		},
+		{
+			"Name": "/Game/MainMenu/Main_Menu",
+			"PackageChunkId": "be477faf6bfc71fa00000001"
+		},
+		{
+			"Name": "/Game/Animations/AttackMove",
+			"PackageChunkId": "df97bc92f712775300000001"
+		},
+		{
+			"Name": "/Game/Animations/Pedone",
+			"PackageChunkId": "51bc397e5bd12d9a00000001"
+		},
+		{
+			"Name": "/Game/Animations/MaximoBS",
+			"PackageChunkId": "74194c54d1a5cda700000001"
+		},
+		{
+			"Name": "/Game/Animations/Skeleton/Maximo_Mesh",
+			"PackageChunkId": "fa11d165ab4a1f2900000001"
+		},
+		{
+			"Name": "/Game/Animations/Skeleton/Zombie_IdleWith_Zombie_SKIN",
+			"PackageChunkId": "8128adad5f55e6f800000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/M_ky_stone02",
+			"PackageChunkId": "ad2258820ca1c93400000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/M_ky_stormDeco01",
+			"PackageChunkId": "d98304ba0cdbfc0000000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/M_ky_storm01",
+			"PackageChunkId": "dd46f84f3d5db42100000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/M_ky_base_turbulence",
+			"PackageChunkId": "d2e0a3f54fb71ab400000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two",
+			"PackageChunkId": "1ae809e7c1079db400000001"
+		},
+		{
+			"Name": "/Engine/Maps/Templates/HLODs/HLODLayer_Instanced",
+			"PackageChunkId": "c7b654a9cce24cef00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
+			"PackageChunkId": "3a0245e4904b10b500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
+			"PackageChunkId": "0e6a0028be3a2a6c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+			"PackageChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Name": "/Game/Main_Menu",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/Animations/ABP_Zombie",
+			"PackageChunkId": "e37ef69c7c40142100000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/MI_ky_storm01_nonD",
+			"PackageChunkId": "e5ee83f7e4e81fad00000001"
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs",
+			"PackageChunkId": "2b5eeae520e979b800000001"
+		},
+		{
+			"Name": "/Game/BP_Player",
+			"PackageChunkId": "59779d26af12a39d00000001"
+		},
+		{
+			"Name": "/Game/Gamemode",
+			"PackageChunkId": "64568f8d8a99c3ac00000001"
+		},
+		{
+			"Name": "/Game/BP_Pedestrian",
+			"PackageChunkId": "31190128e3ab2e2100000001"
+		},
+		{
+			"Name": "/Game/Animations/ABP_Pedestran",
+			"PackageChunkId": "7876d3ce8fc6f4b200000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQSubmixDefault",
+			"PackageChunkId": "cadc4d0ec817b83400000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbSubmixDefault",
+			"PackageChunkId": "cda0bce26734770500000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterSubmixDefault",
+			"PackageChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Name": "/Game/Blueprints/BP_OpenDoor",
+			"PackageChunkId": "17c53e5d3e48cd1e00000001"
+		},
+		{
+			"Name": "/Game/Blueprints/BP_CeilingLamp",
+			"PackageChunkId": "d4d740ad8e220fbe00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01",
+			"PackageChunkId": "6cf99a0e49ac8e8c00000001",
+			"BulkDataChunkIds": [
+				"6cf99a0e49ac8e8c00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_double",
+			"PackageChunkId": "11d712f38fa4398e00000001",
+			"BulkDataChunkIds": [
+				"11d712f38fa4398e00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_corner",
+			"PackageChunkId": "c4282d8ce8503fe100000001",
+			"BulkDataChunkIds": [
+				"c4282d8ce8503fe100000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Nature/SM_grassVerticalSingle",
+			"PackageChunkId": "c01a1d1f1d6f5b2c00000001",
+			"BulkDataChunkIds": [
+				"c01a1d1f1d6f5b2c00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_road_03",
+			"PackageChunkId": "8973f6be46f3210e00000001",
+			"BulkDataChunkIds": [
+				"8973f6be46f3210e00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_trim",
+			"PackageChunkId": "d0f73356634f0c6700000001",
+			"BulkDataChunkIds": [
+				"d0f73356634f0c6700000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_road_01",
+			"PackageChunkId": "edbc6bcd2ed31b4100000001",
+			"BulkDataChunkIds": [
+				"edbc6bcd2ed31b4100000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_parcel_01",
+			"PackageChunkId": "455a2c4390cc0bd500000001",
+			"BulkDataChunkIds": [
+				"455a2c4390cc0bd500000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_road_04_quarter",
+			"PackageChunkId": "0d7ef7e797d7d72c00000001",
+			"BulkDataChunkIds": [
+				"0d7ef7e797d7d72c00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_rainDrain",
+			"PackageChunkId": "f2a4e2445e2eda9200000001",
+			"BulkDataChunkIds": [
+				"f2a4e2445e2eda9200000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_parcel_02",
+			"PackageChunkId": "06f7b514c8bab76700000001",
+			"BulkDataChunkIds": [
+				"06f7b514c8bab76700000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/GroundTilset/SM_parkingSpot_02",
+			"PackageChunkId": "ca3475d29e91754b00000001",
+			"BulkDataChunkIds": [
+				"ca3475d29e91754b00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wall_01",
+			"PackageChunkId": "1251216f3fb3608f00000001",
+			"BulkDataChunkIds": [
+				"1251216f3fb3608f00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_pillar_01_corner",
+			"PackageChunkId": "fdb06e73fffc513900000001",
+			"BulkDataChunkIds": [
+				"fdb06e73fffc513900000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_wallDoor_02",
+			"PackageChunkId": "bfcff9a03f575f8200000001",
+			"BulkDataChunkIds": [
+				"bfcff9a03f575f8200000002"
+			]
+		},
+		{
+			"Name": "/Game/BP_OpenDoor",
+			"PackageChunkId": "d289d8e1ee82f70a00000001",
+			"BulkDataChunkIds": [
+				"d289d8e1ee82f70a00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_window_01",
+			"PackageChunkId": "5bad2e1ca6672f6c00000001",
+			"BulkDataChunkIds": [
+				"5bad2e1ca6672f6c00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_floor_01",
+			"PackageChunkId": "e2e6a737cc567ee000000001",
+			"BulkDataChunkIds": [
+				"e2e6a737cc567ee000000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_PoliceCarSUV_01",
+			"PackageChunkId": "850d0681f728bd7e00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Nature/SM_tree_01",
+			"PackageChunkId": "5a56b4a82225eb1600000001",
+			"BulkDataChunkIds": [
+				"5a56b4a82225eb1600000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Nature/SM_tree_02",
+			"PackageChunkId": "a63df69e8532e08800000001",
+			"BulkDataChunkIds": [
+				"a63df69e8532e08800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_fence_105",
+			"PackageChunkId": "635a3cc4c47259a500000001",
+			"BulkDataChunkIds": [
+				"635a3cc4c47259a500000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_road_block_2",
+			"PackageChunkId": "a05ec13567de376800000001",
+			"BulkDataChunkIds": [
+				"a05ec13567de376800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_roof_01",
+			"PackageChunkId": "782874c5e3b2cc5400000001",
+			"BulkDataChunkIds": [
+				"782874c5e3b2cc5400000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat",
+			"PackageChunkId": "e54a912eab245ef100000001",
+			"BulkDataChunkIds": [
+				"e54a912eab245ef100000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_ceilingLamp_01",
+			"PackageChunkId": "3d3c0fc6b18582af00000001",
+			"BulkDataChunkIds": [
+				"3d3c0fc6b18582af00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_bench",
+			"PackageChunkId": "976e240460d0c9ef00000001",
+			"BulkDataChunkIds": [
+				"976e240460d0c9ef00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_road_block_concrete",
+			"PackageChunkId": "657a9efa8820d04000000001",
+			"BulkDataChunkIds": [
+				"657a9efa8820d04000000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_wooden_blocks",
+			"PackageChunkId": "ef05c03990652c3000000001",
+			"BulkDataChunkIds": [
+				"ef05c03990652c3000000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Wardrobe_01",
+			"PackageChunkId": "0821fa590e71323a00000001",
+			"BulkDataChunkIds": [
+				"0821fa590e71323a00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_TruckTow",
+			"PackageChunkId": "2b1f7192496e85fa00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Fan_02",
+			"PackageChunkId": "64670b4047cd091600000001",
+			"BulkDataChunkIds": [
+				"64670b4047cd091600000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Binder_04",
+			"PackageChunkId": "f9f6f17b148edd6e00000001",
+			"BulkDataChunkIds": [
+				"f9f6f17b148edd6e00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Counter_02",
+			"PackageChunkId": "fd604c7452205e9800000001",
+			"BulkDataChunkIds": [
+				"fd604c7452205e9800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_barrel_1",
+			"PackageChunkId": "40d140cc0579d9ac00000001",
+			"BulkDataChunkIds": [
+				"40d140cc0579d9ac00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_doorFrame_01",
+			"PackageChunkId": "dbdccfba23c8128b00000001",
+			"BulkDataChunkIds": [
+				"dbdccfba23c8128b00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_doorHouse_01",
+			"PackageChunkId": "d604ef2273568a5a00000001",
+			"BulkDataChunkIds": [
+				"d604ef2273568a5a00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_mailbox_1",
+			"PackageChunkId": "0be94577aade1b2200000001",
+			"BulkDataChunkIds": [
+				"0be94577aade1b2200000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/House/SM_Armachair_03",
+			"PackageChunkId": "a6335a419d2226bb00000001",
+			"BulkDataChunkIds": [
+				"a6335a419d2226bb00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_SportClassic_02",
+			"PackageChunkId": "709b774a5e4bfa3700000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Clock_01",
+			"PackageChunkId": "bad3670e9644e2c700000001",
+			"BulkDataChunkIds": [
+				"bad3670e9644e2c700000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_big",
+			"PackageChunkId": "5f2e43688f1552a000000001",
+			"BulkDataChunkIds": [
+				"5f2e43688f1552a000000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_foundWood_01_corner",
+			"PackageChunkId": "8a9851d20d3c98e400000001",
+			"BulkDataChunkIds": [
+				"8a9851d20d3c98e400000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Flag_01",
+			"PackageChunkId": "b8b8e3ac3094996c00000001",
+			"BulkDataChunkIds": [
+				"b8b8e3ac3094996c00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_ladder_01",
+			"PackageChunkId": "e5f9bd8197b84a9d00000001",
+			"BulkDataChunkIds": [
+				"e5f9bd8197b84a9d00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_FrontDesk_Sign_01",
+			"PackageChunkId": "377baa709fa8f87b00000001",
+			"BulkDataChunkIds": [
+				"377baa709fa8f87b00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_04",
+			"PackageChunkId": "d4379a07234b98ab00000001",
+			"BulkDataChunkIds": [
+				"d4379a07234b98ab00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_barrel_2",
+			"PackageChunkId": "0232b1990584cde100000001",
+			"BulkDataChunkIds": [
+				"0232b1990584cde100000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Plant_02",
+			"PackageChunkId": "a11036815b6e94d900000001",
+			"BulkDataChunkIds": [
+				"a11036815b6e94d900000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_02",
+			"PackageChunkId": "9842d0a445f1875b00000001",
+			"BulkDataChunkIds": [
+				"9842d0a445f1875b00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_foundWood_01",
+			"PackageChunkId": "1e5726ae06d49a0800000001",
+			"BulkDataChunkIds": [
+				"1e5726ae06d49a0800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Couch_01",
+			"PackageChunkId": "901f8498e4c0163900000001",
+			"BulkDataChunkIds": [
+				"901f8498e4c0163900000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_lantern",
+			"PackageChunkId": "2eee51870025f1da00000001",
+			"BulkDataChunkIds": [
+				"2eee51870025f1da00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Document_Organizer_02",
+			"PackageChunkId": "8eaa54c723f0c82900000001",
+			"BulkDataChunkIds": [
+				"8eaa54c723f0c82900000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01",
+			"PackageChunkId": "71c6880deaef1dbb00000001",
+			"BulkDataChunkIds": [
+				"71c6880deaef1dbb00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Chair_03",
+			"PackageChunkId": "7c6d8811928946a400000001",
+			"BulkDataChunkIds": [
+				"7c6d8811928946a400000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_hydrant",
+			"PackageChunkId": "ef9141cab016a70600000001",
+			"BulkDataChunkIds": [
+				"ef9141cab016a70600000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_wheelbarrow",
+			"PackageChunkId": "ff6d8391eb4fbc7c00000001",
+			"BulkDataChunkIds": [
+				"ff6d8391eb4fbc7c00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Plant_03",
+			"PackageChunkId": "4d980c14d298f3a600000001",
+			"BulkDataChunkIds": [
+				"4d980c14d298f3a600000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_sewerCover",
+			"PackageChunkId": "06ceddceb0a7453500000001",
+			"BulkDataChunkIds": [
+				"06ceddceb0a7453500000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Laptop_01",
+			"PackageChunkId": "68c6f8bdf7ec8fce00000001",
+			"BulkDataChunkIds": [
+				"68c6f8bdf7ec8fce00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_PinBoard_01",
+			"PackageChunkId": "8651be4b129d20b900000001",
+			"BulkDataChunkIds": [
+				"8651be4b129d20b900000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Flag_02",
+			"PackageChunkId": "f2b136a965fb01f800000001",
+			"BulkDataChunkIds": [
+				"f2b136a965fb01f800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Radiator_01",
+			"PackageChunkId": "c35aa5b8a88a559c00000001",
+			"BulkDataChunkIds": [
+				"c35aa5b8a88a559c00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_crate_bottles",
+			"PackageChunkId": "f1c59930016f048a00000001",
+			"BulkDataChunkIds": [
+				"f1c59930016f048a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Animations/AssetVille/SK_priest_02",
+			"PackageChunkId": "9710f39de8b521b000000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_fence_104a",
+			"PackageChunkId": "f7bf70e27b68511800000001",
+			"BulkDataChunkIds": [
+				"f7bf70e27b68511800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_PickupOld_01",
+			"PackageChunkId": "28169f8cb91d88a700000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_road_sign_9",
+			"PackageChunkId": "fcc7ecb6aa9abb7000000001",
+			"BulkDataChunkIds": [
+				"fcc7ecb6aa9abb7000000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Stamper_01",
+			"PackageChunkId": "733598a0e6e1837400000001",
+			"BulkDataChunkIds": [
+				"733598a0e6e1837400000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Chair_02",
+			"PackageChunkId": "6a4436a8ec85600f00000001",
+			"BulkDataChunkIds": [
+				"6a4436a8ec85600f00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_05",
+			"PackageChunkId": "37c071641259d9da00000001",
+			"BulkDataChunkIds": [
+				"37c071641259d9da00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_fence_104gate",
+			"PackageChunkId": "912458208bd604fc00000001",
+			"BulkDataChunkIds": [
+				"912458208bd604fc00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_SUV_01",
+			"PackageChunkId": "5feb41e65cdaacb800000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Binder_01",
+			"PackageChunkId": "9bf0ec1a35e6d50700000001",
+			"BulkDataChunkIds": [
+				"9bf0ec1a35e6d50700000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Counter_02_corner",
+			"PackageChunkId": "02666c1d911463b300000001",
+			"BulkDataChunkIds": [
+				"02666c1d911463b300000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_Flagpole",
+			"PackageChunkId": "db3d015272d81e2d00000001",
+			"BulkDataChunkIds": [
+				"db3d015272d81e2d00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Bin_01",
+			"PackageChunkId": "93e4c08eef236fca00000001",
+			"BulkDataChunkIds": [
+				"93e4c08eef236fca00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_pipesStock_02",
+			"PackageChunkId": "2b5be47518ecfeb200000001",
+			"BulkDataChunkIds": [
+				"2b5be47518ecfeb200000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_FireExtinguisher_01",
+			"PackageChunkId": "10147e44e79c221900000001",
+			"BulkDataChunkIds": [
+				"10147e44e79c221900000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_bottle_2",
+			"PackageChunkId": "1d11262fc93ac6e400000001",
+			"BulkDataChunkIds": [
+				"1d11262fc93ac6e400000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_doorFrame_02",
+			"PackageChunkId": "c999e884c06ae32d00000001",
+			"BulkDataChunkIds": [
+				"c999e884c06ae32d00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_bench_02",
+			"PackageChunkId": "4617708b404c0bca00000001",
+			"BulkDataChunkIds": [
+				"4617708b404c0bca00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Box_04",
+			"PackageChunkId": "3142e15c9cf6f3f400000001",
+			"BulkDataChunkIds": [
+				"3142e15c9cf6f3f400000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_Muscle_01",
+			"PackageChunkId": "7daf38f48f80af6b00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_PaperShredder_01",
+			"PackageChunkId": "9976646137928b4700000001",
+			"BulkDataChunkIds": [
+				"9976646137928b4700000002"
+			]
+		},
+		{
+			"Name": "/Game/FXVarietyPack/Particles/P_ky_storm",
+			"PackageChunkId": "e164bd44721788a500000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_handTruck_01",
+			"PackageChunkId": "00ea4ef382592e1d00000001",
+			"BulkDataChunkIds": [
+				"00ea4ef382592e1d00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_WaterDispenser_01",
+			"PackageChunkId": "52522c56a19c6c8200000001",
+			"BulkDataChunkIds": [
+				"52522c56a19c6c8200000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_bucket_metal",
+			"PackageChunkId": "5bbd226d3bcf308a00000001",
+			"BulkDataChunkIds": [
+				"5bbd226d3bcf308a00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Notepad_02",
+			"PackageChunkId": "8a437019f91300dc00000001",
+			"BulkDataChunkIds": [
+				"8a437019f91300dc00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/SK_veh_SportClassic_01",
+			"PackageChunkId": "d300470efcd71e7400000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_EagleStatuette_01",
+			"PackageChunkId": "c6a1d12da577034200000001",
+			"BulkDataChunkIds": [
+				"c6a1d12da577034200000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/House/SM_Chair_04",
+			"PackageChunkId": "293781b0a8c06ac800000001",
+			"BulkDataChunkIds": [
+				"293781b0a8c06ac800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/BuildingTilset/SM_stairsU_01",
+			"PackageChunkId": "d4b45f50630f535400000001",
+			"BulkDataChunkIds": [
+				"d4b45f50630f535400000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Printer_01",
+			"PackageChunkId": "2b321f5c8039cb3b00000001",
+			"BulkDataChunkIds": [
+				"2b321f5c8039cb3b00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Telephone_01",
+			"PackageChunkId": "fd1dfb5ede0f4ba800000001",
+			"BulkDataChunkIds": [
+				"fd1dfb5ede0f4ba800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat_set",
+			"PackageChunkId": "4e7d584e750dc05800000001",
+			"BulkDataChunkIds": [
+				"4e7d584e750dc05800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Frame_01",
+			"PackageChunkId": "ec494da09596ab5800000001",
+			"BulkDataChunkIds": [
+				"ec494da09596ab5800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_metal_box_2",
+			"PackageChunkId": "8e5a068efa86c9bf00000001",
+			"BulkDataChunkIds": [
+				"8e5a068efa86c9bf00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_GroundTile",
+			"PackageChunkId": "b255d2b80caa1d0a00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_BrickSmall_01_red",
+			"PackageChunkId": "198a03d9b73a24ba00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_Wallpaper_01_blue",
+			"PackageChunkId": "5c18bd22a7eae7b200000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_Planks_01",
+			"PackageChunkId": "465388c9121ef9bb00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_PoliceCar_01",
+			"PackageChunkId": "40bde0c5317545b300000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_Leaf_01a",
+			"PackageChunkId": "23073265f0ebc97600000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_Leaf_01",
+			"PackageChunkId": "17d9df56cc0e6a8b00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_GrassVertical",
+			"PackageChunkId": "23815f7b54611eb100000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_basementWall_01",
+			"PackageChunkId": "77f9d1b68fa4e0ea00000001",
+			"BulkDataChunkIds": [
+				"77f9d1b68fa4e0ea00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_ColorPalette",
+			"PackageChunkId": "858afed6a2f7c20300000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_traffic_lights_2",
+			"PackageChunkId": "3888131a513b4cad00000001",
+			"BulkDataChunkIds": [
+				"3888131a513b4cad00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_trash",
+			"PackageChunkId": "745a86eb39b0b65500000001",
+			"BulkDataChunkIds": [
+				"745a86eb39b0b65500000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_carton_box_pallete",
+			"PackageChunkId": "4b8e89d195e6d4b500000001",
+			"BulkDataChunkIds": [
+				"4b8e89d195e6d4b500000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_box",
+			"PackageChunkId": "98247f9c392faea600000001",
+			"BulkDataChunkIds": [
+				"98247f9c392faea600000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_workbench",
+			"PackageChunkId": "cfe317f2d4c0a6af00000001",
+			"BulkDataChunkIds": [
+				"cfe317f2d4c0a6af00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_traffic_lights_1",
+			"PackageChunkId": "149f990c6db5302800000001",
+			"BulkDataChunkIds": [
+				"149f990c6db5302800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/StreetProps/SM_crate_1",
+			"PackageChunkId": "5cf1288d9b202b2700000001",
+			"BulkDataChunkIds": [
+				"5cf1288d9b202b2700000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_FenceMetal_01",
+			"PackageChunkId": "594b19e84351746e00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/SM_SkySphere",
+			"PackageChunkId": "48df828be219f7ad00000001",
+			"BulkDataChunkIds": [
+				"48df828be219f7ad00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture",
+			"PackageChunkId": "13241c06194f309e00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MasterMaterials/M_Plants",
+			"PackageChunkId": "f4ea89fbb0b68e1800000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_matteBrown",
+			"PackageChunkId": "7fc0623ff52b788f00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_glossyBlue",
+			"PackageChunkId": "c3119e36c5b7baa300000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_glossyWhite",
+			"PackageChunkId": "3521582f50a4dba100000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_matteWhite",
+			"PackageChunkId": "5dcd725c2e2bfab300000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_matteDarkBrown",
+			"PackageChunkId": "5e88fe864143266000000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_matteDarkGreen",
+			"PackageChunkId": "79c692d17a9b3e3200000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_glossyRed",
+			"PackageChunkId": "1b1c279f240efd4600000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_matteDarkRed",
+			"PackageChunkId": "8aa6b2370693e56500000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_glossyBlack",
+			"PackageChunkId": "de3c33112aa5eeea00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_glossyOrange",
+			"PackageChunkId": "10cbf8278d3d4c9e00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_matteDarkGrey",
+			"PackageChunkId": "2b5c9a55cbcbade500000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_matteGrey",
+			"PackageChunkId": "53e546f4de8e1bbc00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette",
+			"PackageChunkId": "3cf2fb07bf2fb04200000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MasterMaterials/M_AlphaTest",
+			"PackageChunkId": "26f52940d9a383b000000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_GlassBasic",
+			"PackageChunkId": "26a168d58bfdc4dd00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MI_Water",
+			"PackageChunkId": "6c6d782528a2b12600000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
+			"PackageChunkId": "6098725f85292e1b00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Poses/A_characterPoses",
+			"PackageChunkId": "03858c1ca1ccb05a00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind",
+			"PackageChunkId": "b6a513461fb2c81a00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor",
+			"PackageChunkId": "1559e164e96a05a000000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Materials/MasterMaterials/M_Glass",
+			"PackageChunkId": "c0bb1d91092f7d0c00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/PH_veh_TruckTow_Physics",
+			"PackageChunkId": "528814be99ee940600000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/SkeletonCar",
+			"PackageChunkId": "d3aa55c6fd8cdc7700000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/PH_veh_SportClassic_02_Physics",
+			"PackageChunkId": "2e37465b1cf40ce400000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/M_SimpleSkyDome",
+			"PackageChunkId": "e61c20398c40eda200000001"
+		},
+		{
+			"Name": "/Game/Animations/AssetVille/SkeletonCharacter",
+			"PackageChunkId": "ca5f7b2cd961014700000001"
+		},
+		{
+			"Name": "/Game/Animations/AssetVille/PH_characterPhysicsAsset",
+			"PackageChunkId": "9153e06e39306ce100000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/PH_veh_PickupOld_01_Physics",
+			"PackageChunkId": "3f6c77052cc29b5300000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/PH_veh_SUV_01_Physics",
+			"PackageChunkId": "f43dbfa20d3f799c00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/PH_veh_Muscle_01_Physics",
+			"PackageChunkId": "5606f0bb66485c3c00000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/PH_veh_PoliceCarSUV_01_Physics",
+			"PackageChunkId": "53526263c3a1b82600000001"
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Meshes/Vehicles/PH_veh_SportClassic_01_Physics",
+			"PackageChunkId": "734b48abe17f119d00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/EmptyActor",
+			"PackageChunkId": "cb90c94586b3228900000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/AudioIcons/S_AudioComponent_AutoActivate",
+			"PackageChunkId": "dee7fa19f423dfad00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Stars",
+			"PackageChunkId": "56d51199b9b2142a00000001",
+			"BulkDataChunkIds": [
+				"56d51199b9b2142a00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Base/T_colorPalette_METAL",
+			"PackageChunkId": "bc6a9f35f40001ae00000001",
+			"BulkDataChunkIds": [
+				"bc6a9f35f40001ae00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/T_fenceMetal_01",
+			"PackageChunkId": "6fd6b34e320c2ea800000001",
+			"BulkDataChunkIds": [
+				"6fd6b34e320c2ea800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Tiled/T_wallpaper_23",
+			"PackageChunkId": "2afe31b947c6928d00000001",
+			"BulkDataChunkIds": [
+				"2afe31b947c6928d00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Tiled/T_planks_01",
+			"PackageChunkId": "b5c9cff305e4057b00000001",
+			"BulkDataChunkIds": [
+				"b5c9cff305e4057b00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Base/T_roadSet",
+			"PackageChunkId": "5af5beb128fbf6e300000001",
+			"BulkDataChunkIds": [
+				"5af5beb128fbf6e300000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Foliage/T_leaf_01",
+			"PackageChunkId": "c03eb13429aae13800000001",
+			"BulkDataChunkIds": [
+				"c03eb13429aae13800000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Foliage/T_leaf_01a",
+			"PackageChunkId": "da32bccd3d0fa6f300000001",
+			"BulkDataChunkIds": [
+				"da32bccd3d0fa6f300000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Tiled/T_brickSmall_01_red",
+			"PackageChunkId": "05e024f5ddc0bf1f00000001",
+			"BulkDataChunkIds": [
+				"05e024f5ddc0bf1f00000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Tiled/T_wallpaper_01_blue",
+			"PackageChunkId": "3262c4b4e1b987a100000001",
+			"BulkDataChunkIds": [
+				"3262c4b4e1b987a100000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Base/T_colorPalette2048",
+			"PackageChunkId": "c6c5bf49b495e5a500000001",
+			"BulkDataChunkIds": [
+				"c6c5bf49b495e5a500000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/Foliage/T_grassAlpha",
+			"PackageChunkId": "bbfbd0702bbfea3d00000001",
+			"BulkDataChunkIds": [
+				"bbfbd0702bbfea3d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Blue",
+			"PackageChunkId": "86737b633647e77300000001",
+			"BulkDataChunkIds": [
+				"86737b633647e77300000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Clouds_M",
+			"PackageChunkId": "927b2fe4876a1f7400000001",
+			"BulkDataChunkIds": [
+				"927b2fe4876a1f7400000002"
+			]
+		},
+		{
+			"Name": "/Game/AssetsvilleTown/Textures/T_PoliceCar_01",
+			"PackageChunkId": "30c98631254c06a600000001",
+			"BulkDataChunkIds": [
+				"30c98631254c06a600000002"
+			]
+		}
+	],
+	"OptionalPackages": []
+}
